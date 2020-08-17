@@ -130,7 +130,7 @@ h2 span{
   height: 570px;
   width: 100%;
   max-height: 65vw;
-  background-image: url(/img/enzyme_cover.jpg);
+  background-image: url("{{ '/img/enzyme_cover.jpg' | prepend: site.baseurl }}");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 50%,50%;
@@ -291,7 +291,7 @@ h2 span{
   height: 500px;
   width: 100%;
   max-height: 65vw;
-  background-image: url(/img/LabPictureOct2018.jpg);
+  background-image: url("{{ '/img/LabPictureOct2018.jpg' | prepend: site.baseurl }}");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50%,50%;
