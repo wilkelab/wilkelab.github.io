@@ -290,7 +290,6 @@ h2 span{
   height: 500px;
   width: 100%;
   max-height: 65vw;
-  background-image: url("{{ '/img/LabPictureOct2018.jpg' | prepend: site.baseurl }}");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50%,50%;
