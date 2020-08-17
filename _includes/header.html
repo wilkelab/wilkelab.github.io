@@ -1,0 +1,15 @@
+<div class="menu-wrap">
+  <div class="menu-outer">
+    <div class="menu-inner">
+        <a class="menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <div class="menu-spacer"></div>
+      {% for el in site.data.menu limit:3 %}
+        {% assign curPage = site.baseurl | append: '/' | append: el.link %}
+        <a class="menu-element{% if curPage == page.url %} menu-active{% endif %}" href="{{ site.baseurl }}/{{el.link }}">{{ el.title }}</a>
+      {% endfor %}
+      {% if site.data.menu.size > 3 %}
+        <div class="menu-element">More▾</div>
+      {% endif %}
+    </div>
+  </div>
+</div>

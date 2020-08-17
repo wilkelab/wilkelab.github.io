@@ -1,0 +1,43 @@
+- name: Claus O. Wilke
+  role: Principal Investigator
+  url: "http://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o"
+  pubs: "http://scholar.google.com/citations?user=Nc8U6E4AAAAJ"
+  blog: "http://serialmentor.com/blog"
+  github: clauswilke
+
+- name: Adam Hockenberry
+  role: Postdoc
+  joined: 2017
+  pubs: "https://scholar.google.com/citations?user=W5qqC2wAAAAJ&hl=en"
+  github: adamhockenberry
+
+- name: Cory DuPai
+  role: Graduate Student (CMB)
+  joined: 2017
+  pubs: "https://scholar.google.com/citations?hl=en&user=F6StyZYAAAAJ"
+  github: corydubois
+
+- name: Mackenzie M. Johnson
+  role: Graduate Student (EEB)
+  joined: 2017
+  pubs: "https://scholar.google.com/citations?hl=en&user=vBGR7-UAAAAJ"
+  github: mmjohn
+    
+- name: Kuang Hu
+  role: Graduate Student (CMB)
+  joined: 2019
+  github: KuangHu
+
+- name: Alexis M. Hill
+  role: Research Associate
+  joined: 2019
+  github: alexismhill3
+
+- name: Lee Rao
+  role: Undergraduate
+  joined: 2018 
+  github: leerao 
+
+- name: Vinayak Sahal
+  role: Undergraduate
+  joined: 2018

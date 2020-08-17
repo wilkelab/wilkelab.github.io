@@ -1,0 +1,62 @@
+---
+layout: page
+title: Publications
+permalink: /publications
+---
+<div class="publications">
+  <h1>
+    Publications
+  </h1>
+  {% if site.data.publications %}
+  
+    {% assign yrs = site.data.publications | map: "year" | uniq | sort_natural | reverse %}
+    {% assign counter = site.data.publications.size %}
+    <!-- FILTER YEAR-->
+    <div class="pub-filter">
+      <button class="pub-filter-toggle" id="filter-toggle" onclick="toggleFilters()">
+        Filter years ▾
+      </button>
+      <div id="filter-wrap" class="pub-filter-wrap">
+        <div class="pub-filter-years">
+          {% for yr in yrs %}
+          <button class="pub-yr" onclick="toggleYears(this, '{{yr | downcase }}')">
+            {{ yr }}
+          </button>
+          {% endfor %}
+        </div>
+        <button class="pub-filter-reset" onclick="resetFilters()">
+          <span class="mdi mdi-refresh"></span>
+          Reset
+        </button>
+    </div>
+    <!-- END FILTER-->
+    </div>
+    {% for yr in yrs %}
+    <div class="publications-year" id="year-{{ yr | downcase }}">
+      <h2><span class="mdi mdi-calendar"></span> {{ yr }}</h2>
+      {% for pub in site.data.publications %}
+        {% if pub.year == yr %}
+        <div class="publications-element">
+          <div class="publication-number">
+            {{ counter | minus: forloop.index0 }}
+          </div>
+          <div class="publication-content">
+            {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
+            {% if pub.doi %}
+              doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
+            {% endif %}
+            {% if pub.pmcid %}
+              pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
+            {% endif %}
+            
+            {% if pub.doi %}
+            <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+            {% endif %}
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endfor %}
+  {% endif %}
+</div>

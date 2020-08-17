@@ -1,0 +1,245 @@
+- name: Viswanadham Sridhara
+  role: Research Associate
+  joined: 2012
+  left: 2015
+  currently: Computational Biologist at UT Southwestern Medical Center
+  url: "http://scholar.google.com/citations?user=UBvhRHgAAAAJ"
+
+- name: M. Umut Çağlar
+  role: Postdoc
+  joined: 2014
+  left: 2018
+  currently: Lead Data Scientist and Cognitive Engineer at State Street
+  url: "https://www.linkedin.com/in/mehmetumutcaglar/"
+
+- name: Art Covert
+  role: Postdoc, Research Educator
+  joined: 2010
+  left: 2015
+  currently: Data Scientist at simpli.fi
+  url: "https://www.linkedin.com/in/artcovert"
+
+- name: D. Allan Drummond
+  role: Postdoc
+  joined: 2006
+  left: 2006
+  currently: Associate Professor, The University of Chicago
+  url: "http://drummondlab.org/"
+
+- name: Austin G. Meyer
+  role: Graduate Student (CMB) & Postdoc
+  joined: 2010
+  left: 2015
+  currently: Resident in Internal Medicine and Pediatrics, Ohio State University
+  url: "http://www.meyerlab.org/"
+
+- name: Amir Shahmoradi
+  role: Graduate Student (Physics) & Postdoc
+  joined: 2012
+  left: 2015
+  currently: Assistant Professor of Physics, The University of Texas at Arlington 
+  url: "http://www.shahmoradi.org/" 
+  
+- name: Bart Smith
+  role: Postdoc
+  joined: 2016
+  left: 2018
+  currently: Teacher
+
+- name: Ashley Teufel
+  role: Postdoc
+  joined: 2015
+  left: 2018
+  currently: Omidyar Fellow, Santa Fe Institute
+  url: "https://scholar.google.com/citations?user=QqyRBHIAAAAJ"
+
+- name: Tong Zhou
+  role: Postdoc
+  joined: 2006
+  left: 2010
+  currently: Assistant Professor, University of Nevada School of Medicine
+  url: "https://scholar.google.com/citations?user=OUYEkUIAAAAJ&hl=en"
+
+- name: Eleisha L. Jackson
+  role: Graduate Student (EEB)
+  joined: 2012
+  left: 2016
+  currently: Data Scientist, Livongo
+  url: "https://www.linkedin.com/in/eleishajackson"
+
+- name: Thomas Keller
+  role: Graduate Student (EEB)
+  joined: 2008
+  left: 2012
+  currently: Research Technician, Georgia Tech
+  url: "https://scholar.google.com/citations?user=HIBfsy4AAAAJ&hl=en"
+    
+- name: Eamon O'Dea
+  role: Graduate Student (EEB)
+  joined: 2008
+  left: 2013
+  currently: Postdoc, University of Georgia
+  url: "http://ebodea.name/"
+  
+- name: Dakota Derryberry
+  role: Graduate Student (CMB)
+  joined: 2010
+  left: 2017
+  github: dakotaz
+  currently: Canvasser at Clean Water Action
+  url: "https://www.linkedin.com/in/dakota-derryberry-41733a49/"
+  
+- name: Benjamin Jack
+  role: Graduate Student (CMB)
+  joined: 2015
+  left: 2019
+  currently: Data scientist, Valkyrie Intelligence 
+  url: "http://benjack.io"
+  
+- name: Matthew Paff
+  role: Graduate Student (CMB)
+  joined: 2015
+  left: 2018
+  currently: Data Scientist, Valkyrie Intelligence 
+  url: "https://www.linkedin.com/in/matthew-paff/"
+  
+- name: Michael P. Scherrer
+  role: Graduate Student (CMB)
+  joined: 2007
+  left: 2013
+  currently: Senior Data Scientist, Viacom
+  url: "https://www.linkedin.com/in/mpscherrer"
+
+- name: Stephanie J. Spielman
+  role: Graduate Student (EEB)
+  joined: 2011
+  left: 2016
+  currently: Assistant Professor, Rowan University
+  url: "http://sjspielman.org"
+
+- name: Dariya K. Sydykova
+  role: Graduate Student (CMB)
+  joined: 2015
+  left: 2019
+  history: Undergraduate, 2012–2014
+  currently: Data Scientist, Valkyrie Intelligence 
+  url: "https://sydykova.com/"
+
+- name: Oren Bullock
+  role: Undergraduate
+  joined: 2018
+  left: 2019
+
+- name: Andrew Butler
+  role: Undergraduate
+  joined: 2013
+  left: 2015
+  github: andrewwbutler
+  currently: Graduate Student, New York University
+  
+- name: Larry Clay
+  role: Undergraduate, Volunteer
+  joined: 2015
+  left: 2016
+
+- name: Jared Carlson-Stevermer
+  role: Undergraduate
+  joined: 2011
+  left: 2013
+  currently: Graduate Student, University of Wisconsin
+  url: "http://wid.wisc.edu/profile/jared-carlson-stevermer/"
+
+- name: Eric Dawson
+  role: Undergraduate 
+  joined: 2012 
+  left: 2015
+  currently: Graduate Student, Cambridge University and NIH
+  url: "http://scholar.google.com/citations?user=UIWzAQIAAAAJ"
+  github: edawson
+
+- name: Jeff Du
+  role: Undergraduate
+  joined: 2014
+  left: 2016
+
+- name: Kevin Jia
+  role: Undergraduate
+  joined: 2010
+  left: 2011
+
+- name: Rathi Kannan
+  role: Undergraduate
+  joined: 2012
+  left: 2014
+  
+- name: Evan Koch
+  role: Undergraduate
+  joined: 2009
+  left: 2010
+  currently: Graduate Student, University of Chicago
+  url: "http://www.researchgate.net/profile/Evan_Koch"
+
+- name: Keerthana Kumar
+  role: Undergraduate
+  joined: 2012
+  left: 2015
+  github: keerthanakumar
+  
+- name: Walter Lenoir
+  role: Undergraduate
+  joined: 2015
+  left: 2016
+
+- name: Deng Madut
+  role: Undergraduate
+  joined: 2006
+  left: 2007
+  currently: Resident, Duke University School of Medicine
+  url:  "http://residency.medicine.duke.edu/our-residents/current-residents/2012/deng-madut-md"
+
+- name: David Mis 
+  role: Undergraduate
+  joined: 2010 
+  left: 2012
+ 
+- name: Alishah Momin
+  role: Undergraduate
+  joined: 2015
+  left: 2016
+ 
+- name: Nelson Morrow
+  role: Undergraduate
+  joined: 2016  
+  left: 2019
+ 
+- name: Grace Shiau
+  role: High School Student & Undergraduate
+  joined: 2011
+  left: 2013
+  currently: Undergraduate, UT Austin
+  
+- name: Shelby Steinmeyer
+  role: Undergraduate
+  joined: 2008
+  left: 2010
+  currently: MD/PhD student, Texas A&M Health Science Center
+  url: "http://medicine.tamhsc.edu/md-phd/students/current/shelby-steinmeyer.html"
+  
+- name: Aakash Sur
+  role: Undergraduate
+  joined: 2014
+  left: 2015
+  
+- name: Matthew Tien
+  role: Undergraduate
+  joined: 2011
+  left: 2012
+  currently: Post Doctoral Associate, MIT
+  url: "https://scholar.google.com/citations?user=P150jCIAAAAJ&hl=en"
+
+- name: Suyang Wan
+  role: Undergraduate
+  joined: 2015
+  left: 2015
+  currently: Graduate student, Harvard University
+  url:  "https://scholar.google.com/citations?user=4OVoK6MAAAAJ&hl=en"

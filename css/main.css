@@ -1,0 +1,298 @@
+/*--- defaults ---*/
+div, body, button, ul, li, p, a, main {
+  margin:0;
+  padding:0;
+  border:0;
+  font-size:100%;
+  vertical-align:baseline;
+  background:transparent;
+  box-sizing: border-box;
+}
+ul{
+  list-style-type: none;
+}
+div, p, a, span, body, h1, h2, h3, h4, h5, h6, li {
+  font-family: "Roboto", 'Courier New', Courier, monospace;
+  color:#333333;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  margin-bottom:15px;
+}
+a{
+  text-decoration: none;
+  color:#1fabb9;
+}
+h2 span{
+  color:#388896;
+}
+/*--- page layout ---*/
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #fafafa;
+}
+.content{
+  flex-grow: 1;
+}
+.content a:hover, .footer-wrap a:hover{
+  text-decoration: underline;
+}
+/*--- menu ---*/
+.menu-wrap{
+  width: 100%;
+  height: 55px;
+}
+.menu-wrap a{
+  color:#333333;
+}
+.menu-outer{
+  background-color: #dddddd;
+  z-index: 99999;
+  width:100%;
+  top:0;
+  position: fixed;
+  display: flex;
+}
+.menu-inner{
+  padding: 0 30px 0 30px;
+  height: 55px;
+  width:100%;
+  max-width: 1100px;
+  margin:auto;
+  display: flex;
+  flex-wrap: nowrap;
+  line-height: 55px;
+}
+.menu-title{
+  font-size:35px;
+}
+.menu-spacer{
+  flex-grow: 1;
+}
+.menu-element{
+  font-size:22px;
+  padding:0 15px 0 15px;
+}
+.menu-element:hover{
+  background-color: #80d3e1;
+}
+.menu-active{
+  background-color: #9be5f2;
+}
+
+/*--- footer ---*/
+.footer-wrap{
+  margin-top: 50px;
+  background-color: rgb(107, 116, 108);
+}
+.footer-wrap li, .footer-wrap div, .footer-wrap p, .footer-wrap span{
+  color:#eeeeee;
+}
+.footer-wrap a{
+  color:#1ad1f1;
+}
+.footer-wrap h2{
+  color:white;
+}
+.footer-outer{
+  padding: 0 30px 0 30px;
+  width: 100%;
+  max-width: 850px;
+  margin: auto;
+}
+.footer-inner{
+  width: 100%;
+  max-width: 740px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-inner li{
+  line-height: 1.45;
+  font-size: 16px;
+}
+.footer-dev{
+  padding: 20px 0 7px;
+  font-size:14px;
+}
+
+/*--- index page ---*/
+.main-img-wrap{
+  background-color: #3a3a3a;
+  height: 570px;
+  width: 100%;
+  max-height: 65vw;
+}
+.main-img{
+  height: 570px;
+  width: 100%;
+  max-height: 65vw;
+  background-image: url(/img/enzyme_cover.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 50%,50%;
+  opacity: 0.5;
+}
+.main-text{
+  height: 570px;
+  width: 100%;
+  max-height: 65vw;
+  text-align: center;
+  top:55px;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main-text h1{
+  color:white;
+  font-size:65px;
+  margin: 60px 0 10px 0;
+  text-shadow: 1px 1px #2d2d2d;
+}
+.main-text h2{
+  color:white;
+  font-size:27px;
+  margin: 10px 0 10px 0;
+  text-shadow: 1px 1px #2d2d2d;
+}
+/* about(index page) */
+.about{
+  max-width: 770px;
+  padding:0 15px 0 15px;
+  margin: auto;
+}
+.about p{
+  width:100%;
+  font-size:20px;
+  text-align: justify;
+  text-indent: 50px;
+  line-height: 1.45;
+}
+
+/*--- publications page ---*/
+.publications{
+  max-width: 770px;
+  padding:0 15px 0 15px;
+  margin: auto;
+  line-height: 1.45;
+  font-size: 17px;
+}
+.publications-year{
+  width: 100%;
+  padding-bottom: 5px;
+  display: block;
+}
+.publications-year h2{
+  text-transform: capitalize;
+}
+.publications-element{
+  display: flex;
+  flex-wrap: nowrap;
+  margin-bottom: 15px;
+}
+.publication-content{
+  flex-grow: 1;
+  margin-left: 7px;
+}
+
+.pub-yr{
+  display:inline-block;
+  padding:5px;
+  margin:5px;
+  width:95px;
+  background-color:transparent;
+  border:1px solid #2d2d2d;
+  border-radius: 3px;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.pub-yr:hover{
+  background-color: #80d3e1;
+}
+.pub-yr-active{
+  background-color:#65bac9;
+  box-shadow: 0px 1px #707070;
+  border-color: gray;
+}
+.pub-filter{
+  border:1px solid #bbbbbb;
+  padding:10px 20px 10px 20px;
+}
+.pub-filter-toggle{
+  font-size: 20px;
+  margin:0 5px 0 5px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+.pub-filter-wrap{
+  margin-top:10px;
+  display: none;
+}
+.pub-filter-years{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.pub-filter-reset{
+  width:95px;
+  margin:10px 5px 0 5px;
+  padding:5px;
+  background-color:#9be5f2;
+  border:1px solid #2d2d2d;
+  border-radius: 3px;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.pub-filter-reset:hover{
+  background-color: #80d3e1;
+}
+
+/*--- people page ---*/
+.people{
+  max-width: 770px;
+  padding:0 15px 0 15px;
+  margin: auto;
+  line-height: 1.45;
+  font-size: 17px;  
+}
+.people-person{
+  padding-bottom: 20px;
+}
+.people-person-name{
+  font-size: 25px;
+  font-weight: bold;
+}
+.people-person-role, .people-person-history, .people-person-currently{
+  font-size: 19px;
+  margin-left:25px;
+}
+.people-person-links{
+  font-size: 19px;
+  margin-left:25px;
+}
+.people-person-past{
+  padding-bottom: 10px;
+}
+.people-person-past-info{
+  font-size:17px;
+  margin-left:25px;
+}
+.people-person-past-name{
+  font-size: 20px;
+  font-weight: bold;
+}
+.people-image{
+  height: 500px;
+  width: 100%;
+  max-height: 65vw;
+  background-image: url(/img/LabPictureOct2018.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50%,50%;
+}

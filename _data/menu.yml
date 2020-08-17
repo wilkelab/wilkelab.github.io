@@ -1,0 +1,17 @@
+- title: About
+  link: "#about"
+
+- title: Publications
+  link: "publications"
+
+- title: People
+  link: "people"
+
+- title: Software
+  link: "software"
+
+- title: Joining the lab
+  link: "join"
+
+- title: Classes
+  link: "classes"
