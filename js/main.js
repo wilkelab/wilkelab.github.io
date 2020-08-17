@@ -2,11 +2,11 @@ function toggleFilters(){
   let filterYears = document.getElementById("filter-wrap");
   if(filterYears.style.display != 'block'){
     filterYears.style.display = 'block';
-    document.getElementById("filter-toggle").innerText="Filter years ▴";
+    document.getElementById("filter-toggle").innerText="Filter by Year ▴";
   }
   else{
     filterYears.style.display = 'none';
-    document.getElementById("filter-toggle").innerText="Filter years ▾";
+    document.getElementById("filter-toggle").innerText="Filter by Year ▾";
   }
 }
 
