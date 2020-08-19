@@ -33,7 +33,7 @@ permalink: /publications
     </div>
     {% for yr in yrs %}
     <div class="publications-year" id="year-{{ yr | downcase }}">
-      <h2><span class="mdi mdi-calendar"></span> {{ yr }}</h2>
+      <h3><span class="mdi mdi-calendar"></span> {{ yr }}</h3>
       {% for pub in site.data.publications %}
         {% if pub.year == yr %}
         <div class="publications-element">

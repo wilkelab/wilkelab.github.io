@@ -1,0 +1,54 @@
+- name: alignfigR
+  tag_line: R package to visualize large multiple sequence alignments
+  author: Stephanie J. Spielman
+  source_URL: "https://github.com/sjspielman/alignfigr"
+
+- name: codon_tools
+  tag_line: Toolkit to manipulate synonymous codon usage in various ways
+  author: Claus O. Wilke
+  source_URL: "https://github.com/clauswilke/codon_tools"
+  PyPI_URL: "https://pypi.python.org/pypi/codon_tools"
+
+- name: colorblindr
+  tag_line: An R package to simulate colorblindness on R figures
+  author: Claire D. McWhite and Claus O. Wilke
+  source_URL: https://github.com/clauswilke/colorblindr
+  
+- name: cowplot
+  tag_line: Streamlined plot theme and plot annotations for ggplot2
+  author: Claus O. Wilke
+  source_URL: "https://github.com/wilkelab/cowplot"
+  CRAN_URL: "https://cran.r-project.org/package=cowplot"
+
+- name: ggridges
+  tag_line: Ridgeline plots in ggplot2
+  author: Claus O. Wilke
+  source_URL: "https://github.com/clauswilke/ggridges"
+  CRAN_URL: "https://CRAN.R-project.org/package=ggridges"
+
+- name: parsemsf
+  tag_line: Parse ThermoFisher MSF files and estimate protein abundances
+  author: Benjamin R. Jack
+  source_URL: "https://github.com/benjaminjack/parsemsf"
+  CRAN_URL: "https://cran.r-project.org/package=parsemsf"
+  
+- name: PeptideBuilder
+  tag_line: Simple Python library to generate model peptides
+  author: Matthew Z. Tien and Dariya K. Sydykova
+  paper_URL: "http://dx.doi.org/10.7717/peerj.80"
+  PyPI_URL: "https://pypi.python.org/pypi/PeptideBuilder"
+  source_URL: "https://github.com/mtien/PeptideBuilder"
+
+- name: Pyvolve
+  tag_line: Flexible Python module for simulating sequences along phylogenies
+  author: Stephanie J. Spielman
+  source_URL: "https://github.com/sjspielman/pyvolve"
+  PyPI_URL: "https://pypi.python.org/pypi/Pyvolve/"
+  paper_URL: "https://dx.doi.org/10.1371/journal.pone.0139047"
+  
+- name: sicegar
+  tag_line: Analysis of single-cell viral growth curves
+  author: M. Umut Caglar and Claus O. Wilke
+  source_URL: "https://github.com/wilkelab/sicegar"
+  CRAN_URL: "https://CRAN.R-project.org/package=sicegar"
+  paper_URL: "https://dx.doi.org/10.7717/peerj.4251"

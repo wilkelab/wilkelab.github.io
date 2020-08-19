@@ -3,7 +3,6 @@ div, body, button, ul, li, p, a, main {
   margin:0;
   padding:0;
   border:0;
-  font-size:100%;
   vertical-align:baseline;
   background:transparent;
   box-sizing: border-box;
@@ -11,22 +10,36 @@ div, body, button, ul, li, p, a, main {
 ul{
   list-style-type: none;
 }
+
 div, p, a, span, body, h1, h2, h3, h4, h5, h6, li {
   font-family: "Roboto", 'Courier New', Courier, monospace;
   color:#333333;
+}
+div, p, a, span, body,li{
+  font-size:20px;
 }
 h1{
   text-align: center;
   font-size: 40px;
   margin-bottom:15px;
 }
+h2{
+  font-size: 33px;
+  margin-bottom: 15px;
+}
+h3{
+  font-size: 27px;
+  margin-bottom:15px;
+}
+h3 span{
+  font-size: 27px;
+  color:#388896;
+}
 a{
   text-decoration: none;
   color:#1fabb9;
 }
-h2 span{
-  color:#388896;
-}
+
 /*--- page layout ---*/
 .wrapper{
   display: flex;
@@ -53,27 +66,25 @@ h2 span{
   z-index: 99999;
   width:100%;
   top:0;
-  position: fixed;
   display: flex;
 }
 .menu-inner{
-  padding: 0 30px 0 30px;
+  padding: 0 25px 0 25px;
   height: 55px;
   width:100%;
-  max-width: 1100px;
+  max-width: 760px;
   margin:auto;
   display: flex;
   flex-wrap: nowrap;
   line-height: 55px;
 }
 .menu-title{
-  font-size:35px;
+  font-size:34px;
 }
 .menu-spacer{
   flex-grow: 1;
 }
 .menu-element{
-  font-size:22px;
   padding:0 15px 0 15px;
 }
 .menu-element:hover{
@@ -161,15 +172,13 @@ h2 span{
 }
 /* about(index page) */
 .about{
-  max-width: 770px;
-  padding:0 15px 0 15px;
+  max-width: 760px;
+  padding:0 25px 0 25px;
   margin: auto;
 }
 .about p{
   width:100%;
-  font-size:20px;
   text-align: justify;
-  text-indent: 50px;
   line-height: 1.45;
 }
 
@@ -186,7 +195,7 @@ h2 span{
   padding-bottom: 5px;
   display: block;
 }
-.publications-year h2{
+.publications-year h3{
   text-transform: capitalize;
 }
 .publications-element{
@@ -248,36 +257,30 @@ h2 span{
 
 /*--- people page ---*/
 .people{
-  max-width: 770px;
-  padding:0 15px 0 15px;
+  max-width: 760px;
+  padding:0 25px 0 25px;
   margin: auto;
-  line-height: 1.45;
-  font-size: 17px;  
+  line-height: 1.45; 
 }
 .people-person{
   padding-bottom: 20px;
 }
 .people-person-name{
-  font-size: 25px;
   font-weight: bold;
 }
 .people-person-role, .people-person-history, .people-person-currently{
-  font-size: 19px;
   margin-left:25px;
 }
 .people-person-links{
-  font-size: 19px;
   margin-left:25px;
 }
 .people-person-past{
   padding-bottom: 10px;
 }
 .people-person-past-info{
-  font-size:17px;
   margin-left:25px;
 }
 .people-person-past-name{
-  font-size: 20px;
   font-weight: bold;
 }
 .people-image{
@@ -287,4 +290,12 @@ h2 span{
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50%,50%;
+}
+
+/*--- software page ---*/
+.software{
+  max-width: 760px;
+  padding:0 25px 0 25px;
+  margin: auto;
+  line-height: 1.45; 
 }
