@@ -15,13 +15,15 @@ $base-text-color: #333333;
 $link-color: #1fabb9;
 $icon-color: #388896;
 $bg-color: #fafafa;
+$bg-color-second: #ebf4f5;
+$bg-color-active: #61ccd6;
 
 $menu-bg-color: #e6e6e6;
 $menu-more-width: 250px;
 
 $footer-bg-color: #6b746c;
 $footer-base-text-color: #eeeeee;
-$footer-link-color: #1ad1f1;
+$footer-link-color: #3ad1df;
 
 $content-width: 760px;
 $content-padding: 0 25px 0 25px;
@@ -30,8 +32,9 @@ $p-padding: 0 0 20px 0;
 $menu-height: 55px;
 $menu-element-padding: 0 15px 0 15px;
 
+$filter-bg-color: white;
+
 $table-head-bg-color: #eaeaea;
-$table-row-bg-color: #f6f6f6;
 $table-cell-padding: 0 10px 0 10px;
 
 /*--- defaults ---*/
@@ -48,11 +51,11 @@ ul{
   list-style-type: none;
 }
 
-div, p, a, span, body, h1, h2, h3, h4, h5, h6, li, table, thead, tbody, th, tr, td {
+div, p, a, span, body, button, h1, h2, h3, h4, h5, h6, li, table, thead, tbody, th, tr, td {
   font-family: $base-font-family;
   color: $base-text-color;
 }
-div, p, a, span, body, li{
+div, p, a, span, body, button, li{
   font-size: $base-font-size;
 }
 h1{
@@ -136,7 +139,7 @@ a{
   padding: $menu-element-padding;
 }
 .menu-element:hover{
-  background-color: #80d3e1;
+  background-color: $bg-color-active;
 }
 .menu-active{
   background-color: #9be5f2;
@@ -278,19 +281,21 @@ a{
   padding:5px;
   margin:5px;
   width:95px;
-  background-color:transparent;
-  border:1px solid #2d2d2d;
-  border-radius: 3px;
+  height: $base-font-size * 2;
+  background-color: $bg-color-second;
   text-transform: capitalize;
   cursor: pointer;
+  border-width: 2px 3px 3px 2px;
+  border-style: solid;
+  border-color: #a7a7a7;
 }
 .pub-yr-active{
-  background-color:#65bac9;
-  box-shadow: 0px 1px #707070;
-  border-color: gray;
+  background-color: $bg-color-active;
+  //box-shadow: -1px -1px #707070;
+  border-width: 3px 2px 2px 3px;
 }
 .pub-filter{
-  border:1px solid #bbbbbb;
+  background-color: $filter-bg-color;
   padding:10px 20px 10px 20px;
 }
 .pub-filter-toggle{
@@ -311,13 +316,18 @@ a{
 }
 .pub-filter-reset{
   width:95px;
-  margin:10px 5px 0 5px;
+  margin:10px 5px 10px 5px;
   padding:5px;
-  background-color:#9be5f2;
-  border:1px solid #2d2d2d;
-  border-radius: 3px;
+  background-color: $bg-color-second;
   text-transform: capitalize;
   cursor: pointer;
+  border-width: 2px 3px 3px 2px;
+  border-style: solid;
+  border-color: #a7a7a7;
+}
+.pub-filter-reset:active{
+  border-width: 3px 2px 2px 3px;
+  background-color: $bg-color-active;
 }
 
 /*--- people page ---*/
@@ -343,7 +353,7 @@ a{
   background-color: $table-head-bg-color;
 }
 .widetable tr:nth-child(even) {
-  background-color: $table-row-bg-color;
+  background-color: $bg-color-second;
 }
 .widetable th, .widetable td{
   padding: $table-cell-padding;
