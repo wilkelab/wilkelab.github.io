@@ -4,78 +4,75 @@ title: People
 permalink: /people
 image: /img/LabPictureOct2018.jpg
 ---
-<div class="people">
-  <h1> People </h1>
-  <div class="people-image" style="background-image: url({{ page.image | prepend: site.baseurl }});">
-  </div>
-  <div class="people-current">
-    <h2>Current group members</h2>
-    {% for person in site.data.current_members %}
-    <div class="people-person">
-      <div class="people-person-name">{{ person.name }}</div>
-      <div class="people-person-role">
-        {{ person.role }}{% if person.joined %},
-        {{ person.joined }}–present
-        {% endif %}
-      </div>
-      {% if person.history %}
-      <div class="people-person-history">
-        {{ person.history }}
-      </div>
-      {% endif %}
-      <div class="people-person-links">
-        {% if person.url %}
-        <a href="{{ person.url }}">
-          <span class="mdi mdi-account-box"></span>
-          Profile
-        </a><br />
-        {% endif %}
-        {% if person.pubs %}
-        <a href="{{ person.pubs }}">
-          <span class="mdi mdi-text-box-multiple"></span>
-          Publications
-        </a><br />
-        {% endif %}
-        {% if person.blog %}
-        <a href="{{ person.blog }}">
-          <span class="mdi mdi-rss-box"></span>
-          Blog
-        </a><br />
-        {% endif %}
-        {% if person.github %}
-        <a href="https://github.com/{{ person.github }}">
-          <span class="mdi mdi-github"></span>
-          GitHub
-        </a>
-        {% endif %}
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-  <div class="people-past">
-    <h2>Past group members</h2>
-    {% for person in site.data.past_members %}
-    <div class="people-person-past">
-      <div class="people-person-past-name">{{ person.name }}</div>
-      <div class="people-person-past-info">
-        {{ person.role }},
-        {% if person.joined == person.left %}
-        {{ person.left }}
-        {% else %}
-        {{ person.joined }}–{{ person.left }}
-        {% endif %}
-      </div>
-      {% if person.currently %}
-      <div class="people-person-past-info">
-        Last known whereabouts:
-        {% if person.url %}
-        <a href="{{ person.url }}">{{ person.currently }}</a>
-        {% else %}
-        {{  person.currently }}
-        {% endif %}
-      </div>
+<div class="people-image" style="background-image: url({{ page.image | prepend: site.baseurl }});">
+</div>
+<div class="people-current">
+  <h2>Current group members</h2>
+  {% for person in site.data.current_members %}
+  <div class="people-person">
+    <div class="people-person-name">{{ person.name }}</div>
+    <div class="people-person-role">
+      {{ person.role }}{% if person.joined %},
+      {{ person.joined }}–present
       {% endif %}
     </div>
-    {% endfor %}
+    {% if person.history %}
+    <div class="people-person-history">
+      {{ person.history }}
+    </div>
+    {% endif %}
+    <div class="people-person-links">
+      {% if person.url %}
+      <a href="{{ person.url }}">
+        <span class="mdi mdi-account-box"></span>
+        Profile
+      </a><br />
+      {% endif %}
+      {% if person.pubs %}
+      <a href="{{ person.pubs }}">
+        <span class="mdi mdi-text-box-multiple"></span>
+        Publications
+      </a><br />
+      {% endif %}
+      {% if person.blog %}
+      <a href="{{ person.blog }}">
+        <span class="mdi mdi-rss-box"></span>
+        Blog
+      </a><br />
+      {% endif %}
+      {% if person.github %}
+      <a href="https://github.com/{{ person.github }}">
+        <span class="mdi mdi-github"></span>
+        GitHub
+      </a>
+      {% endif %}
+    </div>
   </div>
+  {% endfor %}
+</div>
+<div class="people-past">
+  <h2>Past group members</h2>
+  {% for person in site.data.past_members %}
+  <div class="people-person-past">
+    <div class="people-person-past-name">{{ person.name }}</div>
+    <div class="people-person-past-info">
+      {{ person.role }},
+      {% if person.joined == person.left %}
+      {{ person.left }}
+      {% else %}
+      {{ person.joined }}–{{ person.left }}
+      {% endif %}
+    </div>
+    {% if person.currently %}
+    <div class="people-person-past-info">
+      Last known whereabouts:
+      {% if person.url %}
+      <a href="{{ person.url }}">{{ person.currently }}</a>
+      {% else %}
+      {{  person.currently }}
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
 </div>

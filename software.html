@@ -3,48 +3,45 @@ layout: page
 title: Software
 permalink: /software
 ---
-<div class="software">
-  <h1> Software </h1>
-  {% for sw in site.data.software %}
-    <div class="software-element">
-      <div class="software-name">{{ sw.name }}</div> – 
-      <div class="software-tag">{{ sw.tag_line }}</div>
+{% for sw in site.data.software %}
+  <div class="software-element">
+    <div class="software-name">{{ sw.name }}</div> – 
+    <div class="software-tag">{{ sw.tag_line }}</div>
 
-      {% if sw.author %}
-      <div class="software-author">
-        Written by {{ sw.author }}
-      </div>
-      {% endif %}
-
-      <div class="software-links">
-      {% if sw.source_URL %}
-      <a href="{{ sw.source_URL }}">
-        <span class="mdi mdi-open-in-new"></span>
-        Source
-      </a><br />
-      {% endif %}
-
-      {% if sw.CRAN_URL %}
-      <a href="{{ sw.CRAN_URL }}">
-        <span class="mdi mdi-language-r"></span>
-        CRAN
-      </a><br />
-      {% endif %}
-
-      {% if sw.PyPI_URL %}
-      <a href="{{ sw.PyPI_URL }}">
-        <span class="mdi mdi-language-python"></span>
-        PyPI
-      </a><br />
-      {% endif %}
-
-      {% if sw.paper_URL %}
-      <a href="{{ sw.paper_URL }}">
-        <span class="mdi mdi-text-box"></span>
-        Paper
-      </a> <br />
-      {% endif %}
-      </div>
+    {% if sw.author %}
+    <div class="software-author">
+      Written by {{ sw.author }}
     </div>
-  {% endfor %}
-</div>
+    {% endif %}
+
+    <div class="software-links">
+    {% if sw.source_URL %}
+    <a href="{{ sw.source_URL }}">
+      <span class="mdi mdi-open-in-new"></span>
+      Source
+    </a><br />
+    {% endif %}
+
+    {% if sw.CRAN_URL %}
+    <a href="{{ sw.CRAN_URL }}">
+      <span class="mdi mdi-language-r"></span>
+      CRAN
+    </a><br />
+    {% endif %}
+
+    {% if sw.PyPI_URL %}
+    <a href="{{ sw.PyPI_URL }}">
+      <span class="mdi mdi-language-python"></span>
+      PyPI
+    </a><br />
+    {% endif %}
+
+    {% if sw.paper_URL %}
+    <a href="{{ sw.paper_URL }}">
+      <span class="mdi mdi-text-box"></span>
+      Paper
+    </a> <br />
+    {% endif %}
+    </div>
+  </div>
+{% endfor %}
