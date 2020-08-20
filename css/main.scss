@@ -22,15 +22,16 @@ $content-width: 760px;
 $content-padding: 0 25px 0 25px;
 
 $menu-height: 55px;
+$menu-element-padding: 0 15px 0 15px;
 
 
 /*--- defaults ---*/
 div, body, button, ul, li, p, a, main {
-  margin:0;
-  padding:0;
-  border:0;
-  vertical-align:baseline;
-  background:transparent;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  background: transparent;
   box-sizing: border-box;
   line-height: $base-line-height;
 }
@@ -40,7 +41,7 @@ ul{
 
 div, p, a, span, body, h1, h2, h3, h4, h5, h6, li {
   font-family: $base-font-family;
-  color:$base-text-color;
+  color: $base-text-color;
 }
 div, p, a, span, body, li{
   font-size: $base-font-size;
@@ -119,7 +120,7 @@ a{
   flex-grow: 1;
 }
 .menu-element{
-  padding:0 15px 0 15px;
+  padding: $menu-element-padding;
 }
 .menu-element:hover{
   background-color: #80d3e1;
@@ -131,13 +132,13 @@ a{
 .menu-more{
   position: absolute;
   top: $menu-height;
-  right: calc(50vw - #{$content-width} / 2);
-  z-index:10;
+  right: calc(50% - #{$content-width} / 2);
+  z-index: 10;
   background: $menu-bg-color;
   line-height: $menu-height;
   display: none;
   flex-wrap: wrap;
-  margin-right: 15px;
+  margin: $content-padding;
   width:200px;
 }
 .menu-more a{
@@ -230,9 +231,7 @@ a{
 
 /*--- publications page ---*/
 .publications-year{
-  width: 100%;
   padding-bottom: 5px;
-  display: block;
 }
 .publications-year h3{
   text-transform: capitalize;
@@ -242,11 +241,11 @@ a{
   flex-wrap: nowrap;
   margin-bottom: 15px;
 }
-.publication-content{
+.publications-content{
   flex-grow: 1;
   margin-left: 7px;
 }
-
+/*-- filter --*/
 .pub-yr{
   display:inline-block;
   padding:5px;

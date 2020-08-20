@@ -33,10 +33,10 @@ permalink: /publications
     {% for pub in site.data.publications %}
       {% if pub.year == yr %}
       <div class="publications-element">
-        <div class="publication-number">
+        <div class="publications-number">
           {{ counter | minus: forloop.index0 }}
         </div>
-        <div class="publication-content">
+        <div class="publications-content">
           {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
           {% if pub.doi %}
             doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
