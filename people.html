@@ -6,22 +6,22 @@ image: /img/LabPictureOct2018.jpg
 ---
 <div class="people-image" style="background-image: url({{ page.image | prepend: site.baseurl }});">
 </div>
-<div class="people-current">
+<div class="section">
   <h2>Current group members</h2>
   {% for person in site.data.current_members %}
-  <div class="people-person">
-    <div class="people-person-name">{{ person.name }}</div>
-    <div class="people-person-role">
+  <div class="element-wrap">
+    <div class="element-name">{{ person.name }}</div>
+    <div class="element-subtext">
       {{ person.role }}{% if person.joined %},
       {{ person.joined }}–present
       {% endif %}
     </div>
     {% if person.history %}
-    <div class="people-person-history">
+    <div class="element-subtext">
       {{ person.history }}
     </div>
     {% endif %}
-    <div class="people-person-links">
+    <div class="element-links">
       {% if person.url %}
       <a href="{{ person.url }}">
         <span class="mdi mdi-account-box"></span>
@@ -50,12 +50,12 @@ image: /img/LabPictureOct2018.jpg
   </div>
   {% endfor %}
 </div>
-<div class="people-past">
+<div class="section">
   <h2>Past group members</h2>
   {% for person in site.data.past_members %}
-  <div class="people-person-past">
-    <div class="people-person-past-name">{{ person.name }}</div>
-    <div class="people-person-past-info">
+  <div class="element-wrap">
+    <div class="element-name">{{ person.name }}</div>
+    <div class="element-subtext">
       {{ person.role }},
       {% if person.joined == person.left %}
       {{ person.left }}
@@ -64,7 +64,7 @@ image: /img/LabPictureOct2018.jpg
       {% endif %}
     </div>
     {% if person.currently %}
-    <div class="people-person-past-info">
+    <div class="element-subtext">
       Last known whereabouts:
       {% if person.url %}
       <a href="{{ person.url }}">{{ person.currently }}</a>

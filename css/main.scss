@@ -15,8 +15,11 @@ $base-text-color: #333333;
 $link-color: #1fabb9;
 $icon-color: #388896;
 $bg-color: #fafafa;
+
 $menu-bg-color: #dddddd;
+
 $footer-bg-color: #6b746c;
+$footer-base-text-color: #eeeeee;
 
 $content-width: 760px;
 $content-padding: 0 25px 0 25px;
@@ -77,6 +80,7 @@ a{
 }
 .content{
   flex-grow: 1;
+  padding-bottom: $base-font-size * 2;
 }
 .content-wrap{
   max-width: $content-width;
@@ -149,11 +153,10 @@ a{
 }
 /*--- footer ---*/
 .footer-wrap{
-  margin-top: 50px;
   background-color: $footer-bg-color;
 }
-.footer-wrap li, .footer-wrap div, .footer-wrap p, .footer-wrap span, .footer-wrap h2{
-  color:#eeeeee;
+.footer-wrap *{
+  color: $footer-base-text-color;
 }
 .footer-wrap a{
   color:#1ad1f1;
@@ -229,22 +232,37 @@ a{
   text-align: justify;
 }
 
-/*--- publications page ---*/
-.publications-year{
-  padding-bottom: 5px;
+/*--- styles for page layout ---*/
+.section{
+  
 }
-.publications-year h3{
+.element-wrap{
+  padding-bottom: $base-font-size / 2;
+}
+.element-name{
+  font-weight: bold;
+  display: inline-block;
+}
+.element-text{
+  display: inline-block;
+}
+.element-subtext{
+  margin-left: $base-font-size * 1.25;
+}
+.element-links{
+  margin-left: $base-font-size * 1.25;
+}
+.element-counter{
+  padding-right: $base-font-size / 2.5;
+}
+
+.wrap-flex{
+  display: flex;
+}
+.capitalize{
   text-transform: capitalize;
 }
-.publications-element{
-  display: flex;
-  flex-wrap: nowrap;
-  margin-bottom: 15px;
-}
-.publications-content{
-  flex-grow: 1;
-  margin-left: 7px;
-}
+/*--- publications page ---*/
 /*-- filter --*/
 .pub-yr{
   display:inline-block;
@@ -294,27 +312,6 @@ a{
 }
 
 /*--- people page ---*/
-.people-person{
-  padding-bottom: 20px;
-}
-.people-person-name{
-  font-weight: bold;
-}
-.people-person-role, .people-person-history, .people-person-currently{
-  margin-left:25px;
-}
-.people-person-links{
-  margin-left:25px;
-}
-.people-person-past{
-  padding-bottom: 10px;
-}
-.people-person-past-info{
-  margin-left:25px;
-}
-.people-person-past-name{
-  font-weight: bold;
-}
 .people-image{
   height: 500px;
   width: 100%;
@@ -325,20 +322,5 @@ a{
 }
 
 /*--- software page ---*/
-.software-element{
-  padding-bottom:20px;
-}
-.software-name{
-  font-weight: bold;
-  display: inline-block;
-}
-.software-tag{
-  display: inline-block;
-}
-.software-author{
-  margin-left:25px;
-}
-.software-links{
-  margin-left:25px;
-}
+
 /*--- positions page ---*/

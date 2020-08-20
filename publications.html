@@ -28,15 +28,15 @@ permalink: /publications
   <!-- END FILTER-->
   </div>
   {% for yr in yrs %}
-  <div class="publications-year" id="year-{{ yr | downcase }}">
-    <h3><span class="mdi mdi-calendar"></span> {{ yr }}</h3>
+  <div class="section" id="year-{{ yr | downcase }}">
+    <h3 class="capitalize"><span class="mdi mdi-calendar"></span> {{ yr }}</h3>
     {% for pub in site.data.publications %}
       {% if pub.year == yr %}
-      <div class="publications-element">
-        <div class="publications-number">
+      <div class="element-wrap wrap-flex">
+        <div class="element-counter">
           {{ counter | minus: forloop.index0 }}
         </div>
-        <div class="publications-content">
+        <div class="element-text">
           {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
           {% if pub.doi %}
             doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
@@ -44,7 +44,6 @@ permalink: /publications
           {% if pub.pmcid %}
             pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
           {% endif %}
-          
           {% if pub.doi %}
           <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
           {% endif %}
