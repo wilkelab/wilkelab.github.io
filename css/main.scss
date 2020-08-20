@@ -16,7 +16,8 @@ $link-color: #1fabb9;
 $icon-color: #388896;
 $bg-color: #fafafa;
 
-$menu-bg-color: #dddddd;
+$menu-bg-color: #e6e6e6;
+$menu-more-width: 250px;
 
 $footer-bg-color: #6b746c;
 $footer-base-text-color: #eeeeee;
@@ -29,9 +30,12 @@ $p-padding: 0 0 20px 0;
 $menu-height: 55px;
 $menu-element-padding: 0 15px 0 15px;
 
+$table-head-bg-color: #eaeaea;
+$table-row-bg-color: #f6f6f6;
+$table-cell-padding: 0 10px 0 10px;
 
 /*--- defaults ---*/
-div, body, button, ul, li, p, a, main {
+div, body, button, ul, li, p, a, main, table, thead, tbody, th, tr, td {
   margin: 0;
   padding: 0;
   border: 0;
@@ -44,7 +48,7 @@ ul{
   list-style-type: none;
 }
 
-div, p, a, span, body, h1, h2, h3, h4, h5, h6, li {
+div, p, a, span, body, h1, h2, h3, h4, h5, h6, li, table, thead, tbody, th, tr, td {
   font-family: $base-font-family;
   color: $base-text-color;
 }
@@ -148,7 +152,7 @@ a{
   display: none;
   flex-wrap: wrap;
   margin: $content-padding;
-  width:200px;
+  width: $menu-more-width;
 }
 .menu-more a{
   width:100%;
@@ -329,3 +333,18 @@ a{
 /*--- software page ---*/
 
 /*--- positions page ---*/
+
+/*--- lab meetings ---*/
+.widetable{
+  width: 100%;
+  border-collapse: collapse;
+}
+.widetable thead{
+  background-color: $table-head-bg-color;
+}
+.widetable tr:nth-child(even) {
+  background-color: $table-row-bg-color;
+}
+.widetable th, .widetable td{
+  padding: $table-cell-padding;
+}
