@@ -1,3 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+//variables
+$base-font-family: "Roboto", Helvetica, Arial, sans-serif;
+$base-font-size: 20px;
+$base-line-height: 1.45;
+
+$text-color: #333333;
+$link-color: #1fabb9;
+$icon-color: #388896;
+
+$content-width: 760px;
+
 /*--- defaults ---*/
 div, body, button, ul, li, p, a, main {
   margin:0;
@@ -16,7 +32,7 @@ div, p, a, span, body, h1, h2, h3, h4, h5, h6, li {
   font-family: "Roboto", 'Courier New', Courier, monospace;
   color:#333333;
 }
-div, p, a, span, body,li{
+div, p, a, span, body, li{
   font-size:20px;
 }
 h1{
@@ -25,7 +41,7 @@ h1{
   margin-bottom:15px;
 }
 h2{
-  font-size: 33px;
+  font-size: 34px;
   margin-bottom: 15px;
 }
 h3{
@@ -332,4 +348,11 @@ a{
 }
 .software-links{
   margin-left:25px;
+}
+/*--- positions page ---*/
+.positions{
+  max-width: 760px;
+  padding:0 25px 0 25px;
+  margin: auto;
+  line-height: 1.45; 
 }
