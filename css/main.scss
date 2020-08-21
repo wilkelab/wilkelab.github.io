@@ -49,6 +49,9 @@ div, body, button, ul, li, p, a, main, table, thead, tbody, th, tr, td {
   line-height: $base-line-height;
 }
 
+button:focus{
+  outline: none;
+}
 div, p, a, span, body, button, h1, h2, h3, h4, h5, h6, li, table, thead, tbody, th, tr, td {
   font-family: $base-font-family;
   color: $base-text-color;
