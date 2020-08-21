@@ -13,7 +13,4 @@ github_username:  jekyll
 instagram_username: wilkelab
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
+markdown: kramdown
