@@ -8,6 +8,10 @@ $base-font-family: "Roboto", Helvetica, Arial, sans-serif;
 $base-font-size: 20px;
 $base-line-height: 1.45;
 $footer-font-size: 16px;
+$base-font-weight: 300;
+$base-font-weight-bold: 400;
+
+$h-font-weight: 400;
 
 $h-margin-bottom: 15px;
 
@@ -57,6 +61,7 @@ button:focus{
 div, p, a, span, body, button, h1, h2, h3, h4, h5, h6, li, table, thead, tbody, th, tr, td {
   font-family: $base-font-family;
   color: $base-text-color;
+  font-weight: $base-font-weight;
 }
 div, p, a, span, body, button, li{
   font-size: $base-font-size;
@@ -64,14 +69,17 @@ div, p, a, span, body, button, li{
 h1{
   font-size: $base-font-size * 2;
   margin-bottom: $h-margin-bottom;
+  font-weight: $h-font-weight;
 }
 h2{
   font-size: $base-font-size * 1.7;
   margin-bottom: $h-margin-bottom;
+  font-weight: $h-font-weight;
 }
 h3{
   font-size: $base-font-size * 1.35;
   margin-bottom: $h-margin-bottom;
+  font-weight: $h-font-weight;
 }
 h3 span{
   font-size: $base-font-size * 1.35;
@@ -112,6 +120,9 @@ a{
   padding-left: $base-font-size * 2;
   padding-bottom: 0;
 }
+.content strong, .content b{
+  font-weight: $base-font-weight-bold;
+}
 /*--- menu ---*/
 .menu-wrap{
   height: $menu-height;
@@ -141,6 +152,7 @@ a{
 }
 .menu-title{
   font-size: $base-font-size * 1.7;
+  font-weight: $base-font-weight-bold;
 }
 .menu-spacer{
   flex-grow: 1;
@@ -247,6 +259,7 @@ a{
 .footer-inner{
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
 }
 .footer-inner *{
@@ -316,7 +329,7 @@ a{
   padding-bottom: $base-font-size / 2;
 }
 .element-name{
-  font-weight: bold;
+  font-weight: $base-font-weight-bold;
   display: inline-block;
 }
 .element-text{
@@ -434,5 +447,17 @@ a{
   }
   .menu-opener{
     display: block;
+  }
+  .footer-contacts{
+    width: 70%;
+  }
+  .footer-links{
+    width: 30%;
+  }
+  .footer-links li{
+    padding-bottom: $footer-font-size / 3;
+  }
+  .footer-description{
+    width: 100%;
   }
 }
