@@ -52,6 +52,20 @@ function resetFilters(){
   showActiveYears()
 }
 
+function closeMenu(){
+  let mo = document.getElementById("menu-overlay");
+    mo.style.display = "none";
+}
+function openMenu(){
+  document.getElementById("menu-overlay").style.display = "block";
+}
+function hideOverlay(){
+  let mo = document.getElementById("menu-overlay");
+  if(event.target == mo){
+    mo.style.display = "none";
+  }
+}
+
 //fix links temporary
 window.onload = function(){
   ar = document.getElementsByTagName("a")

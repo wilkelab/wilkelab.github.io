@@ -183,7 +183,7 @@ a{
   font-size:$base-font-size * 1.35;
 }
 
-.menu-modal{
+.menu-overlay{
   display: none;
   z-index:100;
   position: fixed;
@@ -191,13 +191,37 @@ a{
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: red;
+  background-color: rgba(20,20,20,0.45);
 }
 .menu-drawer{
   width: 300px;
-  background-color: blue;
+  background-color: $menu-bg-color;
   height: 100%;
   float: right;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: start;
+  line-height: $menu-height;
+}
+.menu-closer{
+  height: $menu-height;
+  line-height: $menu-height;
+  padding: $menu-element-padding;
+  margin: $content-padding;
+}
+.menu-closer span{
+  font-size:$base-font-size * 1.35;
+}
+.menu-drawer-element{
+  width: 100%;
+  height: $menu-height;
+  line-height: $menu-height;
+  padding: $menu-element-padding;
+  color: $base-text-color;
+  margin: $content-padding;
+}
+.menu-drawer-element:hover, .menu-closer:hover{
+  background-color: $bg-color-active;
 }
 /*--- footer ---*/
 .footer-wrap{

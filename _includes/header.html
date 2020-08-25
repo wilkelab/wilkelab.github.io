@@ -18,16 +18,22 @@
         </div>
       </div>
       {% endif %}
-      <button id="menu-opener" class="menu-opener">
+      <button class="menu-opener" onclick="openMenu()"> 
         <span class="mdi mdi-menu"></span>
       </button>
     </div>
   </div>
 </div>
-<div class="menu-modal">
+<div id="menu-overlay" class="menu-overlay" onclick="hideOverlay()">
   <div class="menu-drawer">
+    <div class="menu-spacer"></div>
+    <button class="menu-closer" onclick="closeMenu()"> 
+      <span class="mdi mdi-close"></span>
+    </button>
+    <a class="menu-drawer-element"
+    href="{{ site.baseurl }}/">Home</a>
     {% for el in site.data.menu %}
-    <a class="menu-element{% if curPage == page.url %} menu-active{% endif %}"
+    <a class="menu-drawer-element"
     href="{{ site.baseurl }}/{{el.link }}">{{ el.title }}</a>
     {% endfor %}
   </div>
