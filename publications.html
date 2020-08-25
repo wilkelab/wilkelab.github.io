@@ -34,18 +34,17 @@ permalink: /publications
       {% if pub.year == yr %}
       <div class="element-wrap wrap-flex">
         <div class="element-counter">
-          {{ counter | minus: forloop.index0 }}
+          {{ counter | minus: forloop.index0 }}.
         </div>
         <div class="element-text">
-          {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
+          {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}.
           {% if pub.doi %}
-            doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
+            <br/>
+            doi: <a href="http://doi.org/{{ pub.doi }}">{{pub.doi}}</a>
           {% endif %}
           {% if pub.pmcid %}
-            pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
-          {% endif %}
-          {% if pub.doi %}
-          <div style="display: inline" data-badge-popover="right" data-badge-type="4" data-doi="{{pub.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+            <br/>
+            pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>
           {% endif %}
         </div>
       </div>
