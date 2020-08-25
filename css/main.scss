@@ -242,9 +242,6 @@ a{
 .footer-wrap *{
   color: $footer-base-text-color;
 }
-.footer-wrap ul{
-  list-style-type: none;
-}
 .footer-wrap a{
   color: $footer-link-color;
 }
@@ -451,13 +448,13 @@ a{
     display: block;
   }
   .footer-contacts{
-    width: 70%;
+    flex-grow: 8;
   }
   .footer-links{
-    width: 30%;
+    flex-grow: 4;
   }
-  .footer-links li{
-    padding-bottom: $footer-font-size / 3;
+  .footer-links a{
+    padding-bottom: $footer-font-size / 1.5;
   }
   .footer-description{
     width: 100%;
