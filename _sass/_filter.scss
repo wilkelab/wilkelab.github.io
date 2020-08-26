@@ -1,0 +1,55 @@
+/*--- publications page ---*/
+/*-- filter --*/
+.pub-yr{
+  display:inline-block;
+  padding:5px;
+  margin:5px;
+  width:95px;
+  height: $base-font-size * 2;
+  background-color: $bg-color-second;
+  text-transform: capitalize;
+  cursor: pointer;
+  border-width: 2px 3px 3px 2px;
+  border-style: solid;
+  border-color: #a7a7a7;
+}
+.pub-yr-active{
+  background-color: $bg-color-active;
+  //box-shadow: -1px -1px #707070;
+  border-width: 3px 2px 2px 3px;
+}
+.pub-filter{
+  background-color: $filter-bg-color;
+  padding:10px 20px 10px 20px;
+}
+.pub-filter-toggle{
+  font-size: 20px;
+  margin:0 5px 0 5px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+.pub-filter-wrap{
+  margin-top:10px;
+  display: none;
+}
+.pub-filter-years{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.pub-filter-reset{
+  width:95px;
+  margin:10px 5px 10px 5px;
+  padding:5px;
+  background-color: $bg-color-second;
+  text-transform: capitalize;
+  cursor: pointer;
+  border-width: 2px 3px 3px 2px;
+  border-style: solid;
+  border-color: #a7a7a7;
+}
+.pub-filter-reset:active{
+  border-width: 3px 2px 2px 3px;
+  background-color: $bg-color-active;
+}

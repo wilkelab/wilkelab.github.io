@@ -1,0 +1,76 @@
+/*--- for *.md---*/
+.content-wrap p{
+  padding-bottom: $content-element-padding-bottom;
+}
+.content ul{
+  padding-left: $base-font-size * 2;
+  padding-bottom: $content-element-padding-bottom;
+}
+.content li ul{
+  padding-left: $base-font-size * 2;
+  padding-bottom: 0;
+}
+.content strong, .content b{
+  font-weight: $base-font-weight-bold;
+}
+
+/*--- for data loops ---*/
+.section{
+  
+}
+.element-wrap{
+  padding-bottom: $base-font-size / 2;
+}
+.element-name{
+  font-weight: $base-font-weight-bold;
+  display: inline;
+}
+.element-text{
+  display: inline;
+}
+.element-subtext{
+  margin-left: $base-font-size * 1.25;
+}
+.element-links{
+  margin-left: $base-font-size * 1.25;
+}
+.element-counter{
+  padding-right: $base-font-size / 2.5;
+  min-width: $base-font-size * 2.5;
+  text-align: right;
+}
+
+.wrap-flex{
+  display: flex;
+}
+.capitalize{
+  text-transform: capitalize;
+}
+
+/*--- people page ---*/
+.people-image{
+  height: 500px;
+  width: 100%;
+  max-height: 65vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50%,50%;
+}
+
+/*--- lab meetings ---*/
+.widetable{
+  width: 100%;
+  border-collapse: collapse;
+}
+.widetable thead{
+  background-color: $table-head-bg-color;
+}
+.widetable tr:nth-child(even) {
+  background-color: $bg-color-second;
+}
+.widetable th{
+  padding: $table-th-padding;
+}
+.widetable td{
+  padding: $table-td-padding;
+}

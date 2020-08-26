@@ -1,0 +1,64 @@
+/*--- defaults ---*/
+div, body, button, ul, li, p, a, main, table, thead, tbody, th, tr, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  background: transparent;
+  box-sizing: border-box;
+  line-height: $base-line-height;
+}
+button:focus{
+  outline: none;
+}
+div, p, a, span, body, button, h1, h2, h3, h4, h5, h6, li, table, thead, tbody, th, tr, td {
+  font-family: $base-font-family;
+  color: $base-text-color;
+  font-weight: $base-font-weight;
+}
+div, p, a, span, body, button, li{
+  font-size: $base-font-size;
+}
+h1{
+  font-size: $base-font-size * 2;
+  margin-bottom: $h-margin-bottom;
+  font-weight: $h-font-weight;
+}
+h2{
+  font-size: $base-font-size * 1.7;
+  margin-bottom: $h-margin-bottom;
+  font-weight: $h-font-weight;
+}
+h3{
+  font-size: $base-font-size * 1.35;
+  margin-bottom: $h-margin-bottom;
+  font-weight: $h-font-weight;
+}
+h3 span{
+  font-size: $base-font-size * 1.35;
+  color: $icon-color;
+}
+a{
+  text-decoration: none;
+  color: $link-color;
+}
+
+/*--- page layout ---*/
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: $bg-color;
+}
+.content{
+  flex-grow: 1;
+  padding-bottom: $base-font-size * 2;
+}
+.content-wrap{
+  max-width: $content-width;
+  padding: $content-padding;
+  margin: auto;
+}
+.content a:hover, .footer-wrap a:hover{
+  text-decoration: underline;
+}

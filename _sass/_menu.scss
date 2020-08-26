@@ -1,0 +1,112 @@
+/*--- menu ---*/
+.menu-wrap{
+  height: $menu-height;
+}
+.menu-wrap *{
+  line-height: inherit;
+}
+.menu-wrap a{
+  color: $base-text-color;
+}
+.menu-outer{
+  background-color: $menu-bg-color;
+  z-index: 10;
+  //top:0;
+  //position: fixed;
+  display: flex;
+}
+.menu-inner{
+  padding: $content-padding;
+  height: $menu-height;
+  width:100%;
+  max-width: $content-width;
+  margin:auto;
+  display: flex;
+  flex-wrap: nowrap;
+  line-height: $menu-height;
+}
+.menu-title{
+  font-size: $base-font-size * 1.7;
+  font-weight: $base-font-weight-bold;
+}
+.menu-spacer{
+  flex-grow: 1;
+}
+.menu-element{
+  padding: $menu-element-padding;
+}
+.menu-element:hover, .menu-opener:hover{
+  background-color: $bg-color-active;
+}
+.menu-active{
+  background-color: #9be5f2;
+}
+/*more*/
+.menu-more{
+  position: absolute;
+  top: $menu-height;
+  right: calc(50% - #{$content-width} / 2);
+  z-index: 10;
+  background: $menu-bg-color;
+  line-height: $menu-height;
+  display: none;
+  flex-wrap: wrap;
+  margin: $content-padding;
+  width: $menu-more-width;
+}
+.menu-more a{
+  width:100%;
+}
+#menu-more:hover .menu-more{
+  display: flex;
+}
+
+.menu-opener{
+  display: none;
+  padding: $menu-element-padding;
+  cursor: pointer;
+}
+.menu-opener span{
+  font-size:$base-font-size * 1.35;
+}
+
+.menu-overlay{
+  display: none;
+  z-index:100;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(20,20,20,0.45);
+}
+.menu-drawer{
+  width: 300px;
+  background-color: $menu-bg-color;
+  height: 100%;
+  float: right;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: start;
+  line-height: $menu-height;
+}
+.menu-closer{
+  height: $menu-height;
+  line-height: $menu-height;
+  padding: $menu-element-padding;
+  margin: $content-padding;
+}
+.menu-closer span{
+  font-size:$base-font-size * 1.35;
+}
+.menu-drawer-element{
+  width: 100%;
+  height: $menu-height;
+  line-height: $menu-height;
+  padding: $menu-element-padding;
+  color: $base-text-color;
+  margin: $content-padding;
+}
+.menu-drawer-element:hover, .menu-closer:hover{
+  background-color: $bg-color-active;
+}

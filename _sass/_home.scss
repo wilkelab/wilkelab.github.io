@@ -1,0 +1,50 @@
+/*--- index page ---*/
+.main-img-wrap{
+  background-color: #3a3a3a;
+  height: 570px;
+  width: 100%;
+  max-height: 65vw;
+}
+.main-img{
+  height: 570px;
+  width: 100%;
+  max-height: 65vw;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 50%,50%;
+  opacity: 0.5;
+}
+.main-text{
+  height: 570px;
+  width: 100%;
+  max-height: 65vw;
+  text-align: center;
+  top: $menu-height;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main-text h1{
+  color:white;
+  font-size:65px;
+  margin: 60px 0 10px 0;
+  text-shadow: 1px 1px #2d2d2d;
+}
+.main-text h3{
+  color:white;
+  margin: 10px 0 10px 0;
+  text-shadow: 1px 1px #2d2d2d;
+}
+/* about(index page) */
+.about{
+  max-width: $content-width;
+  padding: $content-padding;
+  margin: auto;
+  padding-top: $base-font-size;
+}
+.about p{
+  width:100%;
+  text-align: justify;
+}
