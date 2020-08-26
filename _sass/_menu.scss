@@ -82,7 +82,7 @@
 }
 .menu-drawer{
   overflow-y: auto;
-  width: 300px;
+  width: 280px;
   background-color: $menu-bg-color;
   height: 100%;
   float: right;
@@ -90,6 +90,7 @@
   flex-wrap: wrap;
   align-content: start;
   line-height: $menu-height;
+  padding-bottom: $menu-height / 2;
 }
 .menu-closer{
   height: $menu-height;
