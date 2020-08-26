@@ -92,6 +92,8 @@ $table-head-bg-color: #eaeaea;
   .content-wrap{
     overflow-x: auto;
   }
+}
+@media screen and (max-width: 409px) {
   .widetable td{
     font-size: 4vw;
   }
