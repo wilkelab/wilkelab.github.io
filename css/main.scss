@@ -3,9 +3,34 @@
 ---
 @charset "utf-8";
 
-//variables
+/*--- variables ---*/
+/*--- Anastasiya's colors ---*/
+/*
+$base-text-color: #4b4542;
+$link-color: #d46d00;
+$icon-color: #9e8c80;
+$bg-color-second: #f0edea;
+$bg-color-active: #d7d1ca;
+
+$footer-link-color: #edc7b5;
+$footer-bg-color: #6a6461;
+
+$main-image-bg-color: #544741;
+*/
+/*--- My colors ---*/
+$base-text-color: #2f2f2f;
+$link-color: #0C7365;
+$icon-color: #29584F;
+$bg-color-second: #EBF2F0;
+$bg-color-active: #C4D9D4;
+
+$footer-link-color: #ADCDC6;
+$footer-bg-color: #485049;
+
+$main-image-bg-color: #3a3a3a;
+/*--------------*/
+/*--- GLOBAL ---*/
 $base-font-family: "Roboto", Helvetica, Arial, sans-serif;
-//$base-font-size: 20px;
 $base-line-height: 1.45;
 $footer-font-size: 16px;
 $base-font-weight: 300;
@@ -15,12 +40,7 @@ $h-font-weight: 400;
 
 $h-margin-bottom: 15px;
 
-$base-text-color: #333333;
-$link-color: #1fabb9;
-$icon-color: #388896;
 $bg-color: #fafafa;
-$bg-color-second: #ebf4f5;
-$bg-color-active: #61ccd6;
 
 $menu-bg-color: #e6e6e6;
 $menu-more-width: 250px;
@@ -28,9 +48,7 @@ $menu-more-width: 250px;
 $menu-height: 55px;
 $menu-element-padding: 0 15px 0 15px;
 
-$footer-bg-color: #6b746c;
-$footer-base-text-color: #eeeeee;
-$footer-link-color: #3ad1df;
+$footer-base-text-color: #ffffff;
 
 $content-width: 760px;
 $content-padding: 0 25px 0 25px;
