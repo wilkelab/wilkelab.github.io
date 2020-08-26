@@ -448,15 +448,18 @@ a{
     display: block;
   }
   .footer-contacts{
-    flex-grow: 8;
+    flex-grow: 12;
+    width: 100%;
   }
   .footer-links{
-    flex-grow: 4;
+    flex-grow: 12;
+    width: 100%;
   }
   .footer-links a{
     padding-bottom: $footer-font-size / 1.5;
   }
   .footer-description{
+    flex-grow: 12;
     width: 100%;
   }
 }
