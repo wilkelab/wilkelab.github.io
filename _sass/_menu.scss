@@ -81,6 +81,7 @@
   background-color: rgba(20,20,20,0.45);
 }
 .menu-drawer{
+  overflow-y: auto;
   width: 300px;
   background-color: $menu-bg-color;
   height: 100%;

@@ -54,15 +54,18 @@ function resetFilters(){
 
 function closeMenu(){
   let mo = document.getElementById("menu-overlay");
-    mo.style.display = "none";
+  mo.style.display = "none";
+  document.getElementsByTagName("body")[0].style.overflowY = "auto";
 }
 function openMenu(){
   document.getElementById("menu-overlay").style.display = "block";
+  document.getElementsByTagName("body")[0].style.overflowY = "hidden"
 }
 function hideOverlay(){
   let mo = document.getElementById("menu-overlay");
   if(event.target == mo){
     mo.style.display = "none";
+    document.getElementsByTagName("body")[0].style.overflowY = "auto";
   }
 }
 

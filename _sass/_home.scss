@@ -28,13 +28,14 @@
 }
 .main-text h1{
   color:white;
-  font-size:65px;
+  font-size: $home-h1-font-size;
   margin: 60px 0 10px 0;
   text-shadow: 1px 1px #2d2d2d;
 }
 .main-text h3{
   color:white;
-  margin: 10px 0 10px 0;
+  font-size: $home-h3-font-size;
+  margin: 0;
   text-shadow: 1px 1px #2d2d2d;
 }
 /* about(index page) */

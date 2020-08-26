@@ -25,6 +25,9 @@ $bg-color-active: #61ccd6;
 $menu-bg-color: #e6e6e6;
 $menu-more-width: 250px;
 
+$menu-height: 55px;
+$menu-element-padding: 0 15px 0 15px;
+
 $footer-bg-color: #6b746c;
 $footer-base-text-color: #eeeeee;
 $footer-link-color: #3ad1df;
@@ -32,9 +35,6 @@ $footer-link-color: #3ad1df;
 $content-width: 760px;
 $content-padding: 0 25px 0 25px;
 $content-element-padding-bottom: 20px;
-
-$menu-height: 55px;
-$menu-element-padding: 0 15px 0 15px;
 
 $filter-bg-color: transparent;
 
@@ -44,6 +44,8 @@ $table-th-padding: 5px 10px 5px 10px;
 
 @media screen and (min-width: 760px) {
   $base-font-size: 20px;
+  $home-h1-font-size: $base-font-size * 3.5;
+  $home-h3-font-size: $base-font-size * 1.35;
   @import
     "default",
     "menu",
@@ -53,7 +55,9 @@ $table-th-padding: 5px 10px 5px 10px;
     "filter";
 }
 @media screen and (max-width: 759px) {
-  $base-font-size: 14px;
+  $base-font-size: 17px;
+  $home-h1-font-size: 10vw;
+  $home-h3-font-size: 4vw;
   @import
     "default",
     "menu",
