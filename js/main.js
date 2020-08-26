@@ -1,3 +1,7 @@
+/*----------------------*/
+/*--- Filter by year ---*/
+/*----------------------*/
+/*- show/hide filter -*/
 function toggleFilters(){
   let filterYears = document.getElementById("filter-wrap");
   if(filterYears.style.display != 'block'){
@@ -9,7 +13,7 @@ function toggleFilters(){
     document.getElementById("filter-toggle").innerText="Filter by Year ▾";
   }
 }
-
+/*- select a year (make a button active/inactive) -*/
 function toggleYears(btn){
   let data = document.getElementById('year-' + btn.innerText.toLowerCase());
   if(btn.classList.contains("pub-yr-active")){
@@ -20,7 +24,7 @@ function toggleYears(btn){
   }
   showActiveYears()
 }
-
+/*- show info for selecter years -*/
 function showActiveYears(){
   let allYears = document.getElementsByClassName("pub-yr");
   let activeYears = document.getElementsByClassName("pub-yr-active")
@@ -41,7 +45,7 @@ function showActiveYears(){
     }
   }
 }
-
+/*- reset filter (set all buttons inactive) -*/
 function resetFilters(){
   let ar = document.getElementsByClassName("pub-yr");
   for(let el of ar){
@@ -51,22 +55,43 @@ function resetFilters(){
   }
   showActiveYears()
 }
-
+/*----------------------------*/
+/*--- Menu-drawer (mobile) ---*/
+/*----------------------------*/
+/*- close menu-drawer (for button in menu) -*/
 function closeMenu(){
   let mo = document.getElementById("menu-overlay");
   mo.style.display = "none";
   document.getElementsByTagName("body")[0].style.overflowY = "auto";
 }
+/*- open menu-drawer (for button in menu) -*/
 function openMenu(){
   document.getElementById("menu-overlay").style.display = "block";
   document.getElementsByTagName("body")[0].style.overflowY = "hidden"
 }
+/*- close menu-drawer (for overlay under menu-drawer) -*/
 function hideOverlay(){
   let mo = document.getElementById("menu-overlay");
   if(event.target == mo){
     mo.style.display = "none";
     document.getElementsByTagName("body")[0].style.overflowY = "auto";
   }
+}
+/*----------------------------*/
+/*--- Scroll-on-top button ---*/
+/*----------------------------*/
+window.onscroll = watchScroll
+
+function watchScroll(){
+  if (window.scrollY > 55){
+    document.getElementsByClassName("btn-scroll-top")[0].style.display = "block";
+  }
+  else{
+    document.getElementsByClassName("btn-scroll-top")[0].style.display = "none";
+  }
+}
+function scrollOnTop(){
+  window.scrollTo(0, 0);
 }
 
 //fix links temporary

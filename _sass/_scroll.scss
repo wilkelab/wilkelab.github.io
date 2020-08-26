@@ -1,0 +1,19 @@
+.btn-scroll-top{
+  display: none;
+  position: fixed;
+  width: $menu-height;
+  height: $menu-height;
+  border-radius: 100%;
+  background-color: $bg-color-second;
+  border-style: solid;
+  border-width: 1px;
+  border-color: $bg-color-active;
+  top: $btn-scroll-top;
+  left: $btn-scroll-left;
+  cursor: pointer;
+  z-index: 100;
+}
+.btn-scroll-top span{
+  color:$icon-color;
+  font-size: $base-font-size;
+}
