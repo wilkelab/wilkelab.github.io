@@ -80,8 +80,9 @@ function hideOverlay(){
 /*----------------------------*/
 /*--- Scroll-on-top button ---*/
 /*----------------------------*/
+/*- bind a function on scrolling -*/
 window.onscroll = watchScroll
-
+/*- show/hide button -*/
 function watchScroll(){
   if (window.scrollY > 55){
     document.getElementsByClassName("btn-scroll-top")[0].style.display = "block";
@@ -90,6 +91,7 @@ function watchScroll(){
     document.getElementsByClassName("btn-scroll-top")[0].style.display = "none";
   }
 }
+/*- scrolling on top -*/
 function scrollOnTop(){
   window.scrollTo(0, 0);
 }
