@@ -105,9 +105,8 @@
   width: 100%;
   height: $menu-height;
   line-height: $menu-height;
-  padding: $menu-element-padding;
+  padding: $content-padding;
   color: $base-text-color;
-  margin: $content-padding;
 }
 .menu-drawer-element:hover, .menu-closer:hover{
   background-color: $bg-color-active;
