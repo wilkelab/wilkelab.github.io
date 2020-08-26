@@ -1,4 +1,7 @@
 /*--- defaults ---*/
+a, button{
+  -webkit-tap-highlight-color: transparent;
+}
 div, body, button, ul, li, p, a, main, table, thead, tbody, th, tr, td {
   margin: 0;
   padding: 0;
