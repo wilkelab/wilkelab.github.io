@@ -2,11 +2,11 @@
 /*-- filter --*/
 .pub-yr{
   display:inline-block;
-  padding:5px;
-  margin:5px;
-  width: $base-font-size * 3.65;
+  padding: 5px;
+  margin: 5px 8px 5px 8px;
+  width: $base-font-size * 3.8;
   font-size: $base-font-size * 0.9;
-  height: 36px;
+  height: $base-font-size * 1.9;
   background-color: $bg-color-second;
   text-transform: capitalize;
   cursor: pointer;
@@ -17,16 +17,15 @@
 }
 .pub-yr-active{
   background-color: $bg-color-active;
-  //box-shadow: -1px -1px #707070;
   border-width: 2px 1px 1px 2px;
 }
 .pub-filter{
   background-color: $filter-bg-color;
-  padding:10px 20px 10px 20px;
+  padding: 10px 0 10px 0;
 }
 .pub-filter-toggle{
-  font-size: 20px;
-  margin:0 5px 0 5px;
+  font-size: $base-font-size;
+  margin: 0 5px 0 5px;
   cursor: pointer;
   width: 100%;
   text-align: left;
@@ -45,7 +44,8 @@
   width: $base-font-size * 4.5;
   font-size: $base-font-size * 0.9;
   margin:10px 5px 10px 5px;
-  padding:5px;
+  padding: 5px;
+  height: $base-font-size * 1.9;
   background-color: $bg-color-second;
   text-transform: capitalize;
   cursor: pointer;
