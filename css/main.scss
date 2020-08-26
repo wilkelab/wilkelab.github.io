@@ -462,4 +462,11 @@ a{
     flex-grow: 12;
     width: 100%;
   }
+  .footer-inner span{
+    font-size: $footer-font-size * 1.35;
+  }
+  .content span{
+    font-size: $base-font-size * 1.35;
+  }
+
 }

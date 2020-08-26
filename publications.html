@@ -29,7 +29,7 @@ permalink: /publications
     <!-- END FILTER-->
   {% for yr in yrs %}
   <div class="section" id="year-{{ yr | downcase }}">
-    <h3 class="capitalize"><span class="mdi mdi-calendar"></span> {{ yr }}</h3>
+    <h3 class="capitalize"><span class="mdi mdi-calendar"> </span> {{ yr }}</h3>
     {% for pub in site.data.publications %}
       {% if pub.year == yr %}
       <div class="element-wrap wrap-flex">
