@@ -10,14 +10,13 @@
   background-color: $bg-color-second;
   text-transform: capitalize;
   cursor: pointer;
-  border-width: 1px 2px 2px 1px;
+  border-width: 1px;
   border-radius: 3px;
   border-style: solid;
   border-color: $bg-color-active;
 }
 .pub-yr-active{
   background-color: $bg-color-active;
-  border-width: 2px 1px 1px 2px;
 }
 .pub-filter{
   background-color: $filter-bg-color;
@@ -49,7 +48,7 @@
   background-color: $bg-color-second;
   text-transform: capitalize;
   cursor: pointer;
-  border-width: 1px 2px 2px 1px;
+  border-width: 1px;
   border-style: solid;
   border-radius: 3px;
   border-color: $bg-color-active;
@@ -58,6 +57,5 @@
   font-size: $base-font-size * 0.9;
 }
 .pub-filter-reset:active{
-  border-width: 2px 1px 1px 2px;
   background-color: $bg-color-active;
 }
