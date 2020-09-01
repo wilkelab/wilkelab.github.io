@@ -16,7 +16,7 @@
 
 /*--- for data loops ---*/
 .section{
-  
+  margin-top: $base-font-size;
 }
 .element-wrap{
   padding-bottom: $base-font-size / 2;
@@ -36,7 +36,7 @@
 }
 .element-counter{
   padding-right: $base-font-size / 2.5;
-  min-width: $base-font-size * 2.5;
+  min-width: $base-font-size * 2.75;
   text-align: right;
 }
 
@@ -49,9 +49,9 @@
 
 /*--- people page ---*/
 .people-image{
-  height: 500px;
+  height: $people-image-height;
   width: 100%;
-  max-height: 65vw;
+  max-height: $image-max-height;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50%,50%;

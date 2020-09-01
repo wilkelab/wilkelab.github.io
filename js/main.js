@@ -92,7 +92,7 @@ function watchScroll(){
   }
 }
 /*- scrolling on top -*/
-function scrollOnTop(){
+function scrollToTop(){
   window.scrollTo(0, 0);
 }
 

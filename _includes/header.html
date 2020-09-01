@@ -5,14 +5,14 @@
       <div class="menu-spacer"></div>
       {% for el in site.data.menu limit:3 %}
       {% assign curPage = site.baseurl | append: '/' | append: el.link %}
-      <a class="menu-element{% if curPage == page.url %} menu-active{% endif %}"
+      <a class="menu-element"
         href="{{ site.baseurl }}/{{el.link }}">{{ el.title }}</a>
       {% endfor %}
       {% if site.data.menu.size > 3 %}
       <div id="menu-more" class="menu-element">More▾
         <div class="menu-more">
           {% for el in site.data.menu offset:3 %}
-          <a class="menu-element{% if curPage == page.url %} menu-active{% endif %}"
+          <a class="menu-element"
             href="{{ site.baseurl }}/{{el.link }}">{{ el.title }}</a>
           {% endfor %}
         </div>

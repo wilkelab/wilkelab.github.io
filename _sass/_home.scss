@@ -1,23 +1,23 @@
 /*--- index page ---*/
 .main-img-wrap{
   background-color: $main-image-bg-color;
-  height: 570px;
+  height: $home-image-height;
   width: 100%;
-  max-height: 65vw;
+  max-height: $image-max-height;
 }
 .main-img{
-  height: 570px;
+  height: $home-image-height;
   width: 100%;
-  max-height: 65vw;
+  max-height: $image-max-height;
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 50%,50%;
   opacity: 0.5;
 }
 .main-text{
-  height: 570px;
+  height: $home-image-height;
   width: 100%;
-  max-height: 65vw;
+  max-height: $image-max-height;
   text-align: center;
   top: $menu-height;
   width: 100%;
