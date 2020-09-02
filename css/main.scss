@@ -62,6 +62,9 @@ $table-head-bg-color: #eaeaea;
 
 $btn-scroll-bottom: 25px;
 
+$z-index-middle: 10;
+$z-index-highest: 100;
+
 @media screen and (min-width: 760px) {
   $base-font-size: 20px;
   $home-h1-font-size: $base-font-size * 3.5;

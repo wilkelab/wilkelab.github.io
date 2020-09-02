@@ -10,7 +10,7 @@
 }
 .menu-outer{
   background-color: $menu-bg-color;
-  z-index: 10;
+  z-index: $z-index-middle;
   //top:0;
   //position: fixed;
   display: flex;
@@ -43,7 +43,7 @@
   position: absolute;
   top: $menu-height;
   right: calc(50% - #{$content-width} / 2);
-  z-index: 10;
+  z-index: $z-index-middle;
   background: $menu-bg-color;
   line-height: $menu-height;
   display: none;
@@ -69,7 +69,7 @@
 
 .menu-overlay{
   display: none;
-  z-index:100;
+  z-index: $z-index-highest;
   position: fixed;
   top: 0;
   left: 0;

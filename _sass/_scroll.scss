@@ -11,7 +11,7 @@
   bottom: $btn-scroll-bottom;
   left: $btn-scroll-left;
   cursor: pointer;
-  z-index: 100;
+  z-index: $z-index-highest;
 }
 .btn-scroll-top span{
   color:$icon-color;
