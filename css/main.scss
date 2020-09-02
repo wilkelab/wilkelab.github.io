@@ -2,33 +2,45 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+/*
+This file contains variables, styles for different screens
+and includes all other css files.
 
-/*--- variables ---*/
-/*--- My colors ---*/
+content.scss contains:
+  - default styles for *.md pages (lab_meetings.md, positions.md)
+  - 
+  - additional styles for other pages (people.html, lab_meeting table)
+
+default.scss contains:
+  - reset styles
+  - default styles for fonts and colors
+  - styles for page layout
+
+filter.scss contains styles for filter by year (the publications page)
+
+footer.scss contains default styles for footer (fonts, colors, links)
+
+home.scss contains styles for home page:
+  - styles for the image (you can change image in index.html file)
+  - styles for the about paragraph
+
+menu.scss contains all menu styles, including mobile menu and overlay
+
+scroll.scss contains styles for the scroll-to-top button
+*/
+
+/*--- GLOBAL variables ---*/
 $base-text-color: #2d2d2d;
 $link-color: #A04604;
 $icon-color: #6C3E06;
 $bg-color-second: #F3F0ED;
-$bg-color-active: #DCD3CA;//#D8CCC9;
+$bg-color-active: #DCD3CA;
 
 $footer-link-color: #E7D0C0;
 $footer-bg-color: #564F48;
 
 $main-image-bg-color: #45392B;
-/*--------------*/
-/*--- backup green ---
-$base-text-color: #2f2f2f;
-$link-color: #0C7365;
-$icon-color: #29584F;
-$bg-color-second: #EBF2F0;
-$bg-color-active: #C4D9D4;
 
-$footer-link-color: #ADCDC6;
-$footer-bg-color: #485049;
-
-$main-image-bg-color: #3a3a3a;
---------------*/
-/*--- GLOBAL ---*/
 $base-font-family: "Roboto", Helvetica, Arial, sans-serif;
 $base-line-height: 1.45;
 $footer-font-size: 16px;
@@ -65,6 +77,7 @@ $btn-scroll-bottom: 25px;
 $z-index-middle: 10;
 $z-index-highest: 100;
 
+/*- large screens-*/
 @media screen and (min-width: 760px) {
   $base-font-size: 20px;
   $home-h1-font-size: $base-font-size * 3.5;
@@ -81,6 +94,7 @@ $z-index-highest: 100;
     "content",
     "filter";
 }
+/*- mobile screens -*/
 @media screen and (max-width: 760px) {
   $base-font-size: 17px;
   $home-h1-font-size: 10vw;
@@ -96,13 +110,14 @@ $z-index-highest: 100;
     "home",
     "content",
     "filter";
-
+  /* display mobile menu*/
   .menu-element{
     display: none;
   }
   .menu-opener{
     display: block;
   }
+  /* mobile footer */
   .footer-contacts{
     flex-grow: 12;
     width: 100%;
@@ -118,16 +133,19 @@ $z-index-highest: 100;
     flex-grow: 12;
     width: 100%;
   }
+  /*fix for a wide content*/
   .content-wrap{
     overflow-x: auto;
   }
 }
+
+/* fix table for lab meeting page for small screens*/
 @media screen and (max-width: 409px) {
   .widetable td{
     font-size: 4vw;
   }
 }
-
+/* better scroll button position for larger screens */
 @media screen and (min-width: 950px) {
   .btn-scroll-top{
     left: calc(50% + 385px);

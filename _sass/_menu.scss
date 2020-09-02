@@ -1,4 +1,4 @@
-/*--- menu ---*/
+/*--- main menu bar ---*/
 .menu-wrap{
   height: $menu-height;
 }
@@ -11,8 +11,6 @@
 .menu-outer{
   background-color: $menu-bg-color;
   z-index: $z-index-middle;
-  //top:0;
-  //position: fixed;
   display: flex;
 }
 .menu-inner{
@@ -57,7 +55,7 @@
 #menu-more:hover .menu-more{
   display: flex;
 }
-
+/*mobile open menu button*/
 .menu-opener{
   display: none;
   padding: $menu-element-padding;
@@ -66,7 +64,7 @@
 .menu-opener span{
   font-size:$base-font-size * 1.35;
 }
-
+/*mobile overlay and menu list*/
 .menu-overlay{
   display: none;
   z-index: $z-index-highest;

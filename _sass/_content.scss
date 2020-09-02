@@ -1,4 +1,4 @@
-/*--- for *.md---*/
+/*--- default styles for *.md files (positions.md, lab_meetings.md) ---*/
 .content-wrap p{
   padding-bottom: $content-element-padding-bottom;
 }
@@ -14,32 +14,39 @@
   font-weight: $base-font-weight-bold;
 }
 
-/*--- for data loops ---*/
+/*--- classes for *.html pages (software.html, publications.html) ---*/
+/* example: one year with all publications */
 .section{
   margin-top: $base-font-size;
 }
+/* example: a publication with title and links */
 .element-wrap{
   padding-bottom: $base-font-size / 2;
 }
-.element-name{
-  font-weight: $base-font-weight-bold;
-  display: inline;
-}
-.element-text{
-  display: inline;
-}
-.element-subtext{
-  margin-left: $base-font-size * 1.25;
-}
-.element-links{
-  margin-left: $base-font-size * 1.25;
-}
+/* example:  a publication's number */
 .element-counter{
   padding-right: $base-font-size / 2.5;
   min-width: $base-font-size * 2.75;
   text-align: right;
 }
-
+/* example: bold software name */
+.element-name{
+  font-weight: $base-font-weight-bold;
+  display: inline;
+}
+/* example: software description */
+.element-text{
+  display: inline;
+}
+/* example: software author (with indent) */
+.element-subtext{
+  margin-left: $base-font-size * 1.25;
+}
+/* example: software links (with indent) */
+.element-links{
+  margin-left: $base-font-size * 1.25;
+}
+/*--------*/
 .wrap-flex{
   display: flex;
 }

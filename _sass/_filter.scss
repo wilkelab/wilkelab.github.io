@@ -1,5 +1,30 @@
-/*--- publications page ---*/
-/*-- filter --*/
+/*--- filter (publications page) ---*/
+/* outer wrapper for the entire filter */
+.pub-filter{
+  background-color: $filter-bg-color;
+  padding: 10px 0 10px 0;
+}
+/* open/close filter */
+.pub-filter-toggle{
+  font-size: $base-font-size;
+  margin: 0 5px 0 5px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  color: $icon-color;
+}
+/* wrapper for year buttons and reset*/
+.pub-filter-wrap{
+  margin-top:10px;
+  display: none;
+}
+/* wrapper for year buttons */
+.pub-filter-years{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+/* year buttons */
 .pub-yr{
   display:inline-block;
   padding: 5px;
@@ -18,27 +43,7 @@
 .pub-yr-active{
   background-color: $bg-color-active;
 }
-.pub-filter{
-  background-color: $filter-bg-color;
-  padding: 10px 0 10px 0;
-}
-.pub-filter-toggle{
-  font-size: $base-font-size;
-  margin: 0 5px 0 5px;
-  cursor: pointer;
-  width: 100%;
-  text-align: left;
-  color: $icon-color;
-}
-.pub-filter-wrap{
-  margin-top:10px;
-  display: none;
-}
-.pub-filter-years{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: start;
-}
+/* reset */
 .pub-filter-reset{
   width: $base-font-size * 4.5;
   font-size: $base-font-size * 0.9;
