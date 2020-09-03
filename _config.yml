@@ -1,15 +1,15 @@
 title: The Wilke Lab
 address: The University of Texas at Austin
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+email: wilke@austin.utexas.edu
+description: > # this means to ignore newlines until "baseurl:"
   Department of Integrative Biology<br>
   Institute for Cellular and Molecular Biology<br>
   2500 Speedway, A4800<br>
   Room: MBB 3.232
 baseurl: "/wilkelabtest" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ClausWilke
+github_username:  wilkelab
 instagram_username: wilkelab
 
 # Build settings
