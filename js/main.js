@@ -103,14 +103,3 @@ function watchScroll(){
 function scrollToTop(){
   window.scrollTo(0, 0);
 }
-
-//fix links temporary
-window.onload = function(){
-  ar = document.getElementsByTagName("a")
-  for(let i = 0; i< ar.length; i++){
-    if(ar[i].pathname.substring(0,9) == "/classes/"){
-      ar[i].href = ar[i].href.replace("/classes/", "/wilkelabtest/classes/")
-      console.log(ar[i])
-    } 
-  }
-}
