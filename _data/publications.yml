@@ -31,7 +31,8 @@
 - author: A. Zeileis, J. C. Fisher, K. Hornik, R. Ihaka, C. D. McWhite, P. Murrell, R. Stauffer, C. O. Wilke
   year: 2020
   title: "colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes."
-  ref: "J. Stat. Soft., in press"
+  ref: "J. Stat. Soft. 96(1):1–49"
+  doi: 10.18637/jss.v096.i01
   
 - author: C. O. Wilke, C. T. Bergstrom
   year: 2020
