@@ -1,3 +1,9 @@
+- author:  C. D. DuPai, B. W. Davies, C. O. Wilke
+  year: preprint
+  title: A systematic analysis of the beta hairpin motif in the Protein Data Bank.
+  ref: "bioRxiv 359612"
+  doi: 10.1101/2020.10.28.359612
+
 - author: M. M. Johnson, C. O. Wilke
   year: preprint
   title: Site-specific amino acid distributions follow a universal shape.
@@ -25,7 +31,14 @@
 - author: A. Zeileis, J. C. Fisher, K. Hornik, R. Ihaka, C. D. McWhite, P. Murrell, R. Stauffer, C. O. Wilke
   year: 2020
   title: "colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes."
-  ref: "J. Stat. Soft., in press"
+  ref: "J. Stat. Soft. 96(1):1–49"
+  doi: 10.18637/jss.v096.i01
+  
+- author: C. O. Wilke, C. T. Bergstrom
+  year: 2020
+  title: Predicting an epidemic trajectory is difficult.
+  ref: "Proc. Natl. Acad. Sci. USA 202020200"
+  doi: 10.1073/pnas.2020200117
 
 - author: C. D. DuPai, C. O. Wilke, B. W. Davies
   year: 2020
