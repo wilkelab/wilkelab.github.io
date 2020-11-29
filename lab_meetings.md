@@ -22,11 +22,12 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 10/23/20 || Anastasiya || Cory ||
 | 10/30/20 || Kuang || Anastasiya ||
 | 11/6/20 || Sahil || Kuang ||
-| 11/13/20 || Alexis || Sahil ||
-| 11/20/20 || Matt || Alexis ||
+| 11/13/20 || --- || --- || Cory's Dissertation
+| 11/20/20 || Alexis || Sahil ||
 | 11/27/20 || --- || --- || Thanksgiving.
-| 12/4/20 || Adam || Matt || 
-| 12/11/20 || Mackenzie || Adam |||
+| 12/4/20 || Matt || Alexis ||
+| 12/11/20 || Adam || Matt || 
+| 12/18/20 || Mackenzie || Adam |||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
