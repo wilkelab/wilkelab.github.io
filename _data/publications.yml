@@ -1,14 +1,14 @@
+- author: S. B. Shah, A. M. Hill, C. O. Wilke, A. J. Hockenberry
+  year: preprint
+  title: Generating complex patterns of gene expression without regulatory circuits.
+  ref: "bioRxiv 398248"
+  doi: 10.1101/2020.11.25.398248v1
+
 - author:  C. D. DuPai, B. W. Davies, C. O. Wilke
   year: preprint
   title: A systematic analysis of the beta hairpin motif in the Protein Data Bank.
   ref: "bioRxiv 359612"
   doi: 10.1101/2020.10.28.359612
-
-- author: M. M. Johnson, C. O. Wilke
-  year: preprint
-  title: Site-specific amino acid distributions follow a universal shape.
-  ref: "bioRxiv 238493"
-  doi: 10.1101/2020.08.05.238493
 
 - author: A. I. Teufel, W. Liu, J. A. Draghi, C. E. Cameron, C. O. Wilke
   year: preprint 
@@ -34,6 +34,12 @@
   ref: "J. Stat. Soft. 96(1):1–49"
   doi: 10.18637/jss.v096.i01
   
+- author: M. M. Johnson, C. O. Wilke
+  year: 2020
+  title: Site-specific amino acid distributions follow a universal shape.
+  ref: "J. Mol. Evol. 88:731–741"
+  doi: 10.1007/s00239-020-09976-8
+    
 - author: C. O. Wilke, C. T. Bergstrom
   year: 2020
   title: Predicting an epidemic trajectory is difficult.
