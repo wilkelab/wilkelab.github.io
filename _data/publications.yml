@@ -4,12 +4,6 @@
   ref: "bioRxiv 398248"
   doi: 10.1101/2020.11.25.398248v1
 
-- author:  C. D. DuPai, B. W. Davies, C. O. Wilke
-  year: preprint
-  title: A systematic analysis of the beta hairpin motif in the Protein Data Bank.
-  ref: "bioRxiv 359612"
-  doi: 10.1101/2020.10.28.359612
-
 - author: A. I. Teufel, W. Liu, J. A. Draghi, C. E. Cameron, C. O. Wilke
   year: preprint 
   title: Uncovering modeling features of viral replication dynamics from high-throughput single-cell virology experiments.
@@ -27,6 +21,17 @@
   title: Theory of measurement for site-specific evolutionary rates in amino-acid sequences.
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
+
+- author:  C. D. DuPai, B. W. Davies, C. O. Wilke
+  year: 2021
+  title: A systematic analysis of the beta hairpin motif in the Protein Data Bank.
+  ref: "Protein Science, in press"
+
+- author: C. D. DuPai, A. L. Cunningham, A. R. Conrado, C. O. Wilke, B. W. Davies
+  year: 2020
+  title: TsrA Regulates Virulence and Intestinal Colonization in Vibrio cholerae.
+  ref: "mSphere 5:e01014-20"
+  doi: 10.1128/mSphere.01014-20
 
 - author: A. Zeileis, J. C. Fisher, K. Hornik, R. Ihaka, C. D. McWhite, P. Murrell, R. Stauffer, C. O. Wilke
   year: 2020
