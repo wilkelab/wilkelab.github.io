@@ -16,12 +16,12 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 1/15/21 || Anastasiya || Mackenzie ||
 | 1/22/21 || Jeff || Anastasiya ||
 | 1/29/21 || Kuang || Jeff  ||
-| 2/5/21 || Tanvi || Kuang ||
-| 2/12/21 || Alexis || Tanvi |||
-| 2/19/21 || Matt || Alexis ||
-| 2/26/21 || Adam  || Matt ||
-| 3/5/21 || Mackenzie || Adam ||
-| 3/12/21 || Sahil || Mackenzie ||
+| 2/5/21 || Alexis || Kuang ||
+| 2/12/21 || Matt || Alexis |||
+| 2/19/21 || Adam || Matt ||
+| 2/26/21 || Mackenzie  || Adam ||
+| 3/5/21 || Sahil || Mackenzie ||
+| 3/12/21 || Tanvi || Sahil ||
 | 3/19/21 || --- || --- || TBD
 | 3/26/21 || --- || --- || TBD
 | 4/2/21 || --- || --- || TBD
