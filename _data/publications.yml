@@ -26,6 +26,7 @@
   year: 2021
   title: A systematic analysis of the beta hairpin motif in the Protein Data Bank.
   ref: "Protein Science, in press"
+  doi: 10.1002/pro.4020
 
 - author: C. D. DuPai, A. L. Cunningham, A. R. Conrado, C. O. Wilke, B. W. Davies
   year: 2020
@@ -48,7 +49,7 @@
 - author: C. O. Wilke, C. T. Bergstrom
   year: 2020
   title: Predicting an epidemic trajectory is difficult.
-  ref: "Proc. Natl. Acad. Sci. USA 202020200"
+  ref: "Proc. Natl. Acad. Sci. USA 117:28549-28551"
   doi: 10.1073/pnas.2020200117
 
 - author: C. D. DuPai, C. O. Wilke, B. W. Davies
