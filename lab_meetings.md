@@ -22,15 +22,15 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 2/26/21 || Sahil || Mackenzie ||
 | 3/5/21 || Mackenzie  || Adam ||
 | 3/12/21 || Tanvi || Sahil ||
-| 3/19/21 || Anastasiya || Tanvi ||
-| 3/26/21 || --- || --- || TBD
-| 4/2/21 || --- || --- || TBD
-| 4/9/21 || --- || --- || TBD
-| 4/16/21 || --- || --- || TBD
-| 4/23/21 || --- || --- || TBD
-| 4/30/21 || --- || --- || TBD
-| 5/7/21 || --- || --- || TBD
-| 5/14/21 || --- || --- || TBD
+| 3/19/21 || --- || --- || No lab meeting.
+| 3/26/21 || Anastasiya || Tanvi || TBD
+| 4/2/21 || Jeff || Anastasiya || TBD
+| 4/9/21 || Kuang || Jeff || TBD
+| 4/16/21 || Alexis || Kuang || TBD
+| 4/23/21 || Adam || Alexis || TBD
+| 4/30/21 || Sahil || Adam || TBD
+| 5/7/21 || Tanvi || Sahil || TBD
+| 5/14/21 || Anastasiya || Tanvi || TBD
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
@@ -51,7 +51,7 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 10/23/20 || Anastasiya || Cory ||
 | 10/30/20 || Kuang || Anastasiya ||
 | 11/6/20 || Sahil || Kuang ||
-| 11/13/20 || --- || --- || Cory's Dissertation
+| 11/13/20 || --- || --- || Cory's Dissertation.
 | 11/20/20 || Alexis || Sahil ||
 | 11/27/20 || --- || --- || Thanksgiving.
 | 12/4/20 || Matt || Alexis ||
