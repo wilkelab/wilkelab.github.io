@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: wilkelab.org
+Token: e6572ed6fcfb8ef3758d2f8d60101f5b432b9a72438414186cb2afe2bfd462dc
