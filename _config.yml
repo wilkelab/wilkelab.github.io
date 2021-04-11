@@ -14,3 +14,4 @@ instagram_username: wilkelab
 
 # Build settings
 markdown: kramdown
+include: [".well-known"]
