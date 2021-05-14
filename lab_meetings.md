@@ -26,7 +26,6 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 8/6/21 || Kuang || Matt ||
 | 8/13/21 || Alexis || Kuang ||
 | 8/20/21 || Mackenzie || Alexis ||
-
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
