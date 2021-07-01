@@ -1,20 +1,14 @@
+- author: A. J. Hockenberry, D. C. Weaver, C. O. Wilke
+  year: preprint
+  title: Virulent but not temperate bacteriophages display hallmarks of rapid translation initiation.
+  ref: "bioRxiv 440840"
+  doi: https://doi.org/10.1101/2021.04.21.440840
+
 - author: S. B. Shah, A. M. Hill, C. O. Wilke, A. J. Hockenberry
   year: preprint
   title: Generating complex patterns of gene expression without regulatory circuits.
   ref: "bioRxiv 398248"
   doi: 10.1101/2020.11.25.398248
-
-- author: A. I. Teufel, W. Liu, J. A. Draghi, C. E. Cameron, C. O. Wilke
-  year: preprint 
-  title: Uncovering modeling features of viral replication dynamics from high-throughput single-cell virology experiments.
-  ref: "bioRxiv 195925"
-  doi: 10.1101/2020.07.09.195925
-
-- author: A. J. Hockenberry, C. O. Wilke
-  year: preprint
-  title: "BACPHLIP: Predicting bacteriophage lifestyle from conserved protein domains."
-  ref: "bioRxiv 094805"
-  doi: 10.1101/2020.05.13.094805
 
 - author: D. K. Sydykova, C. O. Wilke
   year: preprint
@@ -22,17 +16,33 @@
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
 
+- author: A. J. Hockenberry, C. O. Wilke
+  year: 2021
+  title: "BACPHLIP: Predicting bacteriophage lifestyle from conserved protein domains."
+  ref: "PeerJ 9:e11396"
+  doi: 10.7717/peerj.11396
+  pmcid: PMC8106911
+
+- author: A. I. Teufel, W. Liu, J. A. Draghi, C. E. Cameron, C. O. Wilke
+  year: 2021
+  title: Modeling poliovirus replication dynamics from live time-lapse single-cell imaging data.
+  ref: "Scientific Reports 11:9622"
+  doi: 10.1038/s41598-021-87694-x
+  pmcid: PMC8100109
+
 - author:  C. D. DuPai, B. W. Davies, C. O. Wilke
   year: 2021
   title: A systematic analysis of the beta hairpin motif in the Protein Data Bank.
   ref: "Protein Science 30:613-623"
   doi: 10.1002/pro.4020
+  pmcid: PMC7888580
 
 - author: C. D. DuPai, A. L. Cunningham, A. R. Conrado, C. O. Wilke, B. W. Davies
   year: 2020
   title: TsrA Regulates Virulence and Intestinal Colonization in Vibrio cholerae.
   ref: "mSphere 5:e01014-20"
   doi: 10.1128/mSphere.01014-20
+  pmcid: PMC7729259
 
 - author: A. Zeileis, J. C. Fisher, K. Hornik, R. Ihaka, C. D. McWhite, P. Murrell, R. Stauffer, C. O. Wilke
   year: 2020
@@ -45,12 +55,14 @@
   title: Site-specific amino acid distributions follow a universal shape.
   ref: "J. Mol. Evol. 88:731–741"
   doi: 10.1007/s00239-020-09976-8
+  pmcid: PMC7717668
     
 - author: C. O. Wilke, C. T. Bergstrom
   year: 2020
   title: Predicting an epidemic trajectory is difficult.
   ref: "Proc. Natl. Acad. Sci. USA 117:28549–28551"
   doi: 10.1073/pnas.2020200117
+  pmcid: PMC7682412
 
 - author: C. D. DuPai, C. O. Wilke, B. W. Davies
   year: 2020
