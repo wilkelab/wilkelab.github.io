@@ -18,17 +18,17 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 9/17/21 || Danny || Anastasiya ||
 | 9/24/21 || --- || --- || No lab meeting.
 | 10/1/21 || Anastasiya || Claus ||
-| 10/8/21 || Tanvi || Danny ||
+| 10/8/21 || Round Robin || Danny ||
 | 10/15/21 || Jeff || Tanvi ||
 | 10/22/21 || Kuang || Jeff ||
-| 10/29/21 || Matt || Kuang ||
-| 11/5/21 || Alexis || Matt ||
-| 11/12/21 || Mackenzie || Alexis ||
-| 11/19/21 || Amy || Mackenzie ||
+| 10/29/21 || --- || --- || No lab meeting.
+| 11/5/21 || Matt || Kuang ||
+| 11/12/21 || Alexis || Matt ||
+| 11/19/21 || Mackenzie || Alexis ||
 | 11/26/21 || --- || --- || No lab meeting.
-| 12/3/21 || Tanvi || Amy ||
-| 12/10/21 || Danny || Tanvi ||
-| 12/17/21 || Anastasiya || Danny ||
+| 12/3/21 || Tanvi || Mackenzie ||
+| 12/10/21 || Amy || Tanvi ||
+| 12/17/21 || Anastasiya || Amy ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
