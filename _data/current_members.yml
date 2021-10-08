@@ -5,17 +5,12 @@
   blog: "http://serialmentor.com/blog"
   github: clauswilke
 
-- name: Adam Hockenberry
+- name: T. Jeffrey Cole
   role: Postdoc
-  joined: 2017
-  pubs: "https://scholar.google.com/citations?user=W5qqC2wAAAAJ&hl=en"
-  github: adamhockenberry
-
-- name: Cory DuPai
-  role: Graduate Student (CMB)
-  joined: 2017
-  pubs: "https://scholar.google.com/citations?hl=en&user=F6StyZYAAAAJ"
-  github: corydubois
+  joined: 2021
+  pubs: "https://scholar.google.com/citations?user=MbxmQhcAAAAJ&hl=en"
+  blog: https://tijeco.info/
+  github: tijeco
 
 - name: Mackenzie M. Johnson
   role: Graduate Student (EEB)
@@ -37,11 +32,6 @@
   role: Graduate Student (CMB)
   joined: 2020
   
-- name: Sahil Shah
-  role: Undergraduate
-  joined: 2019
-  github: SahilBShah
-
 - name: Tanvi Ingle
   role: Undergraduate
   joined: 2020

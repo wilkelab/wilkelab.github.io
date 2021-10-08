@@ -1,3 +1,15 @@
+- author: A. V. Kulikova, D. J. Diaz, J. M. Loy, A. D. Ellington, C. O. Wilke
+  year: preprint
+  title: Learning the local landscape of protein structures with convolutional neural networks.
+  ref: "bioRxiv 456994"
+  doi: https://doi.org/10.1101/2021.08.19.456994
+
+- author: J. R. Rybarski, K. Hu, A. M. Hill, C. O. Wilke, I. J. Finkelstein
+  year: preprint
+  title: Metagenomic Discovery of CRISPR-Associated Transposons.
+  ref: "bioRxiv 456562"
+  doi: https://doi.org/10.1101/2021.08.16.456562
+
 - author: A. J. Hockenberry, D. C. Weaver, C. O. Wilke
   year: preprint
   title: Virulent but not temperate bacteriophages display hallmarks of rapid translation initiation.

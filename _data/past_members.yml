@@ -26,6 +26,12 @@
   currently: Associate Professor, The University of Chicago
   url: "http://drummondlab.org/"
 
+- name: Adam Hockenberry
+  role: Postdoc
+  joined: 2017
+  left: 2021
+  url: "https://scholar.google.com/citations?user=W5qqC2wAAAAJ&hl=en"
+
 - name: Austin G. Meyer
   role: Graduate Student (CMB) & Postdoc
   joined: 2010
@@ -88,7 +94,13 @@
   github: dakotaz
   currently: Canvasser at Clean Water Action
   url: "https://www.linkedin.com/in/dakota-derryberry-41733a49/"
-  
+
+- name: Cory DuPai
+  role: Graduate Student (CMB)
+  joined: 2017
+  left: 2021
+  pubs: "https://scholar.google.com/citations?hl=en&user=F6StyZYAAAAJ"
+
 - name: Benjamin Jack
   role: Graduate Student (CMB)
   joined: 2015
@@ -221,6 +233,11 @@
   role: Undergraduate
   joined: 2018
   left: 2019
+ 
+- name: Sahil Shah
+  role: Undergraduate
+  joined: 2019
+  left: 2021
  
 - name: Grace Shiau
   role: High School Student & Undergraduate
