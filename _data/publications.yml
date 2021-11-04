@@ -1,15 +1,3 @@
-- author: A. V. Kulikova, D. J. Diaz, J. M. Loy, A. D. Ellington, C. O. Wilke
-  year: preprint
-  title: Learning the local landscape of protein structures with convolutional neural networks.
-  ref: "bioRxiv 456994"
-  doi: https://doi.org/10.1101/2021.08.19.456994
-
-- author: J. R. Rybarski, K. Hu, A. M. Hill, C. O. Wilke, I. J. Finkelstein
-  year: preprint
-  title: Metagenomic Discovery of CRISPR-Associated Transposons.
-  ref: "bioRxiv 456562"
-  doi: https://doi.org/10.1101/2021.08.16.456562
-
 - author: A. J. Hockenberry, D. C. Weaver, C. O. Wilke
   year: preprint
   title: Virulent but not temperate bacteriophages display hallmarks of rapid translation initiation.
@@ -27,6 +15,22 @@
   title: Theory of measurement for site-specific evolutionary rates in amino-acid sequences.
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
+
+- author: J. R. Rybarski, K. Hu, A. M. Hill, C. O. Wilke, I. J. Finkelstein
+  year: 2021
+  title: Metagenomic Discovery of CRISPR-Associated Transposons.
+  ref: "PNAS, in press"
+
+- author: A. V. Kulikova, D. J. Diaz, J. M. Loy, A. D. Ellington, C. O. Wilke
+  year: 2021
+  title: Learning the local landscape of protein structures with convolutional neural networks.
+  ref: "J. Biol. Phys., in press"
+
+- author: A. M. Hill, J. R. Rybarski, K. Hu, I. J. Finkelstein, C. O. Wilke
+  year: 2021
+  title: "Opfi: A Python package for identifying gene clusters in large genomics and metagenomics data sets."
+  ref: "Journal of Open Source Software 6:3678"
+  doi: https://doi.org/10.21105/joss.03678
 
 - author: A. J. Hockenberry, C. O. Wilke
   year: 2021
