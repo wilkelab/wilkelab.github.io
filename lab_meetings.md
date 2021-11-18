@@ -27,8 +27,8 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 11/19/21 || Mackenzie || Alexis ||
 | 11/26/21 || --- || --- || No lab meeting.
 | 12/3/21 || Tanvi || Mackenzie ||
-| 12/10/21 || Amy || Tanvi ||
-| 12/17/21 || Anastasiya || Amy ||
+| 12/10/21 || Rotation || Tanvi ||
+| 12/17/21 || Anastasiya || Jim ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
