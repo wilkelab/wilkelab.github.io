@@ -7,6 +7,36 @@ permalink: /lab_meetings
 Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 <br><br>
 
+### Spring 2022
+
+|------+---+--------------------+---+----------------------+---+-------|
+| Date      |    |Research       |    |Literature |         |Notes      |
+|:----------|----|:------------------|----|:--------------------|---|:------|
+| 1/7/21 || Round Robin || Anastasiya ||
+| 1/14/21 || Jeff || Daryl ||
+| 1/21/21 || Kuang || Jeff ||
+| 1/28/21 || Alexis || Kuang ||
+| 2/4/21 || Mackenzie || Alexis ||
+| 2/11/21 || Tanvi || Mackenzie ||
+| 2/18/21 || Danny || Tanvi ||
+| 2/25/21 || Matt  || Danny ||
+| 3/4/21 || Anastasiya || Matt ||
+| 3/11/21 || Jeff || Anastasiya ||
+| 3/18/21 || ---  || --- || No lab meeting.
+| 3/25/21 || TBD || TBD ||
+| 4/1/21 || TBD || TBD ||
+| 4/8/21 || TBD || TBD ||
+| 4/15/21 || TBD || TBD ||
+| 4/22/21 || TBD || TBD ||
+| 4/29/21 || TBD || TBD ||
+| 5/6/21 || TBD || TBD ||
+| 5/13/21 || TBD || TBD ||
+|------+---+--------------------+---+----------------------+---+-------|
+{:.widetable}
+
+<br><br />
+
+
 ### Fall 2021
 
 |------+---+--------------------+---+----------------------+---+-------|
@@ -27,7 +57,7 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 11/19/21 || Mackenzie || Alexis ||
 | 11/26/21 || --- || --- || No lab meeting.
 | 12/3/21 || Tanvi || Mackenzie ||
-| 12/10/21 || Rotation || Tanvi ||
+| 12/10/21 || Daryl || Tanvi ||
 | 12/17/21 || Anastasiya || Jim ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
