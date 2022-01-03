@@ -12,8 +12,8 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 |------+---+--------------------+---+----------------------+---+-------|
 | Date      |    |Research       |    |Literature |         |Notes      |
 |:----------|----|:------------------|----|:--------------------|---|:------|
-| 1/7/21 || Round Robin || Anastasiya ||
-| 1/14/21 || Jeff || Daryl ||
+| 1/7/21 || Round Robin || --- ||
+| 1/14/21 || Jeff || Anastasiya ||
 | 1/21/21 || Kuang || Jeff ||
 | 1/28/21 || Alexis || Kuang ||
 | 2/4/21 || Mackenzie || Alexis ||
@@ -23,14 +23,14 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 3/4/21 || Anastasiya || Matt ||
 | 3/11/21 || Jeff || Anastasiya ||
 | 3/18/21 || ---  || --- || No lab meeting.
-| 3/25/21 || TBD || TBD ||
-| 4/1/21 || TBD || TBD ||
-| 4/8/21 || TBD || TBD ||
-| 4/15/21 || TBD || TBD ||
-| 4/22/21 || TBD || TBD ||
-| 4/29/21 || TBD || TBD ||
-| 5/6/21 || TBD || TBD ||
-| 5/13/21 || TBD || TBD ||
+| 3/25/21 || Zac || Jeff ||
+| 4/1/21 || Kuang || Zac ||
+| 4/8/21 || Alexis || Kuang ||
+| 4/15/21 || Mackenzie || Alexis ||
+| 4/22/21 || Tanvi || Mackenzie ||
+| 4/29/21 || Danny || Tanvi ||
+| 5/6/21 || Matt || Danny ||
+| 5/13/21 || Anastasiya || Matt ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
