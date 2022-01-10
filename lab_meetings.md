@@ -13,13 +13,13 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | Date      |    |Research       |    |Literature |         |Notes      |
 |:----------|----|:------------------|----|:--------------------|---|:------|
 | 1/7/21 || Round Robin || --- ||
-| 1/14/21 || Jeff || Anastasiya ||
+| 1/14/21 || Jeff || Danny ||
 | 1/21/21 || Kuang || Jeff ||
 | 1/28/21 || Alexis || Kuang ||
 | 2/4/21 || Mackenzie || Alexis ||
 | 2/11/21 || Tanvi || Mackenzie ||
 | 2/18/21 || Danny || Tanvi ||
-| 2/25/21 || Matt  || Danny ||
+| 2/25/21 || Matt  || Anastasiya ||
 | 3/4/21 || Anastasiya || Matt ||
 | 3/11/21 || Jeff || Anastasiya ||
 | 3/18/21 || ---  || --- || No lab meeting.
