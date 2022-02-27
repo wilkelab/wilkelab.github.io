@@ -21,6 +21,23 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 2/18/21 || Danny || Tanvi ||
 | 2/25/21 || Matt  || Anastasiya ||
 | 3/4/21 || Anastasiya || Matt ||
+| 3/11/21 || Kuang || Anastasiya ||
+| 3/18/21 || ---  || --- || No lab meeting.
+| 3/25/21 || Tanvi || Kuang ||
+| 4/1/21 || Alexis || Tanvi ||
+| 4/8/21 || Mackenzie || Alexis ||
+| 4/15/21 || Danny || Mackenzie ||
+| 4/22/21 || Matt || Danny ||
+| 4/29/21 || Anastasiya || Matt ||
+| 5/6/21 || Kuang || Anastasiya ||
+| 5/13/21 || Tanvi || Kuang ||
+
+
+
+
+
+
+
 | 3/11/21 || Jeff || Anastasiya ||
 | 3/18/21 || ---  || --- || No lab meeting.
 | 3/25/21 || Zac || Jeff ||
