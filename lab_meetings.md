@@ -7,30 +7,53 @@ permalink: /lab_meetings
 Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 <br><br>
 
+### Summer 2022
+
+|------+---+--------------------+---+----------------------+---+-------|
+| Date      |    |Research       |    |Literature |         |Notes      |
+|:----------|----|:------------------|----|:--------------------|---|:------|
+| 5/20/22 || Alexis || Tanvi ||
+| 5/27/22 || Mackenzie || Alexis ||
+| 6/3/22 || Danny || Mackenzie ||
+| 6/10/22 || Matt || Danny ||
+| 6/17/22 || Anastasiya || Matt ||
+| 6/24/22 || Kuang || Anastasiya ||
+| 7/1/22 || Tanvi || Kuang ||
+| 7/8/22 || Alexis || Tanvi ||
+| 7/15/22 || Mackenzie || Alexis ||
+| 7/22/22 || Danny || Mackenzie ||
+| 7/29/22 || Matt || Danny ||
+| 8/5/22 || Anastasiya || Matt ||
+| 8/12/22 || Kuang || Anastasiya ||
+|------+---+--------------------+---+----------------------+---+-------|
+{:.widetable}
+
+<br><br />
+
 ### Spring 2022
 
 |------+---+--------------------+---+----------------------+---+-------|
 | Date      |    |Research       |    |Literature |         |Notes      |
 |:----------|----|:------------------|----|:--------------------|---|:------|
-| 1/7/21 || Round Robin || --- ||
-| 1/14/21 || Jeff || Danny ||
-| 1/21/21 || Kuang || Jeff ||
-| 1/28/21 || Alexis || Kuang ||
-| 2/4/21 || Mackenzie || Alexis ||
-| 2/11/21 || Tanvi || Mackenzie ||
-| 2/18/21 || Danny || Tanvi ||
-| 2/25/21 || Matt  || Anastasiya ||
-| 3/4/21 || Anastasiya || Matt ||
-| 3/11/21 || Kuang || Anastasiya ||
-| 3/18/21 || ---  || --- || No lab meeting.
-| 3/25/21 || Tanvi || Kuang ||
-| 4/1/21 || Alexis || Tanvi ||
-| 4/8/21 || Mackenzie || Alexis ||
-| 4/15/21 || Danny || Mackenzie ||
-| 4/22/21 || Matt || Danny ||
-| 4/29/21 || Anastasiya || Matt ||
-| 5/6/21 || Kuang || Anastasiya ||
-| 5/13/21 || Tanvi || Kuang ||
+| 1/7/22 || Round Robin || --- ||
+| 1/14/22 || Jeff || Danny ||
+| 1/21/22 || Kuang || Jeff ||
+| 1/28/22 || Alexis || Kuang ||
+| 2/4/22 || Mackenzie || Alexis ||
+| 2/11/22 || Tanvi || Mackenzie ||
+| 2/18/22 || Danny || Tanvi ||
+| 2/25/22 || Matt  || Anastasiya ||
+| 3/4/22 || Anastasiya || Matt ||
+| 3/11/22 || Kuang || Anastasiya ||
+| 3/18/22 || ---  || --- || No lab meeting.
+| 3/25/22 || Tanvi || Kuang ||
+| 4/1/22 || Alexis || Tanvi ||
+| 4/8/22 || Mackenzie || Alexis ||
+| 4/15/22 || Danny || Mackenzie ||
+| 4/22/22 || Matt || Danny ||
+| 4/29/22 || Anastasiya || Matt ||
+| 5/6/22 || Kuang || Anastasiya ||
+| 5/13/22 || Tanvi || Kuang ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
