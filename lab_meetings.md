@@ -22,9 +22,9 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 7/8/22 || Alexis || Luiz ||
 | 7/15/22 || Tanvi || Alexis ||
 | 7/22/22 || Mackenzie || Tanvi ||
-| 7/29/22 || Danny || Mackenzie ||
-| 8/5/22 || Matt || Danny ||
-| 8/12/22 || Anastasiya || Matt ||
+| 7/29/22 || Aaron || Mackenzie ||
+| 8/5/22 || Matt || Aaron ||
+| 8/12/22 || Danny || Matt ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
