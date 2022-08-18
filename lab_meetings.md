@@ -7,6 +7,31 @@ permalink: /lab_meetings
 Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 <br><br>
 
+### Fall 2022
+
+|------+---+--------------------+---+----------------------+---+-------|
+| Date      |    |Research       |    |Literature |         |Notes      |
+|:----------|----|:------------------|----|:--------------------|---|:------|
+| 8/26/22 || Mackenzie || Kuang ||
+| 9/2/22 || Danny || Mackenzie ||
+| 9/9/22 || Luiz || Danny ||
+| 9/16/22 || Anastasiya || Luiz ||
+| 9/23/22 || Brent || Anastasiya ||
+| 10/7/22 || Aaron || Brent ||
+| 10/14/22 || Kuang || Aaron ||
+| 10/21/22 || --- || --- || No lab meeting.
+| 10/28/22 || TBD || TBD ||
+| 11/4/22 || TBD || TBD ||
+| 11/11/22 || TBD || TBD ||
+| 11/18/22 || TBD || TBD ||
+| 11/25/22 || --- || --- || No lab meeting.
+| 12/2/22 || TBD || TBD ||
+| 12/9/22 || TBD || TBD ||
+|------+---+--------------------+---+----------------------+---+-------|
+{:.widetable}
+
+<br><br />
+
 ### Summer 2022
 
 |------+---+--------------------+---+----------------------+---+-------|
@@ -26,7 +51,6 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 8/5/22 || Alexis || Aaron ||
 | 8/12/22 || --- || --- || No lab meeting.
 | 8/19/22 || Kuang || Alexis ||
-| 8/26/22 || Mackenzie || Kuang ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
