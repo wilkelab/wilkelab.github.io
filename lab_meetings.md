@@ -15,13 +15,13 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 8/26/22 || Mackenzie || Kuang ||
 | 9/2/22 || Luiz || Mackenzie ||
 | 9/9/22 || Danny || Luiz ||
-| 9/16/22 || Anastasiya || Danny ||
-| 9/23/22 || Brent || Anastasiya ||
-| 9/30/22 || Aaron || Brent ||
-| 10/7/22 || Alexis || Aaron ||
-| 10/14/22 || Kuang || Alexis ||
+| 9/16/22 || --- || --- || -- No lab meeting.
+| 9/23/22 || Anastasiya || Danny ||
+| 9/30/22 || Brent || Anastasiya ||
+| 10/7/22 || --- || --- || -- No lab meeting.
+| 10/14/22 || Aaron || Brent ||
 | 10/21/22 || --- || --- || No lab meeting.
-| 10/28/22 || TBD || TBD ||
+| 10/28/22 || Alexis || Aaron ||
 | 11/4/22 || TBD || TBD ||
 | 11/11/22 || TBD || TBD ||
 | 11/18/22 || TBD || TBD ||
