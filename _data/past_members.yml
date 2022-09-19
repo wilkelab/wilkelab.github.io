@@ -12,6 +12,13 @@
   currently: Lead Data Scientist and Cognitive Engineer at State Street
   url: "https://www.linkedin.com/in/mehmetumutcaglar/"
 
+- name: T. Jeffrey Cole
+  role: Postdoc
+  joined: 2021
+  left: 2022
+  currently: Senior Bioinformatics Engineer at Bio-Techne
+  url: "https://tijeco.info/"
+
 - name: Art Covert
   role: Postdoc, Research Educator
   joined: 2010
@@ -173,6 +180,11 @@
   role: Undergraduate
   joined: 2014
   left: 2016
+  
+- name: Tanvi Ingle
+  role: Undergraduate
+  joined: 2020
+  left: 2022
 
 - name: Kevin Jia
   role: Undergraduate

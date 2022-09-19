@@ -1,14 +1,20 @@
+- author: J. R. Randall, C. D. DuPai, T. J. Cole, G. Davidson, K. E. Groover, C. O. Wilke, B. W. Davies
+  year: preprint
+  title: Designing β-hairpin peptide macrocycles for antibiotic potential.
+  ref: "bioRxiv 497034"
+  doi: 10.1101/2022.06.21.497034
+
+- author: M. M. Johnson, C. O. Wilke
+  year: preprint
+  title: Recombination rate inference via deep learning is limited by sequence diversity.
+  ref: "bioRxiv 498489"
+  doi: 10.1101/2022.07.01.498489
+
 - author: A. J. Hockenberry, D. C. Weaver, C. O. Wilke
   year: preprint
   title: Virulent but not temperate bacteriophages display hallmarks of rapid translation initiation.
   ref: "bioRxiv 440840"
-  doi: https://doi.org/10.1101/2021.04.21.440840
-
-- author: S. B. Shah, A. M. Hill, C. O. Wilke, A. J. Hockenberry
-  year: preprint
-  title: Generating complex patterns of gene expression without regulatory circuits.
-  ref: "bioRxiv 398248"
-  doi: 10.1101/2020.11.25.398248
+  doi: 10.1101/2021.04.21.440840
 
 - author: D. K. Sydykova, C. O. Wilke
   year: preprint
@@ -16,22 +22,32 @@
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
 
+- author: S. B. Shah, A. M. Hill, C. O. Wilke, A. J. Hockenberry
+  year: 2022
+  title: Generating dynamic gene expression patterns without the need for regulatory circuits.
+  ref: "PLoS One 17:e0268883"
+  doi: 10.1371/journal.pone.0268883
+
 - author: J. R. Rybarski, K. Hu, A. M. Hill, C. O. Wilke, I. J. Finkelstein
   year: 2021
   title: Metagenomic Discovery of CRISPR-Associated Transposons.
-  ref: "PNAS, in press"
+  ref: "Proc. Natl. Acad. Sci. USA 118:e2112279118"
+  doi: 10.1073/pnas.2112279118
+  pmcid: PMC8670466
 
 - author: A. V. Kulikova, D. J. Diaz, J. M. Loy, A. D. Ellington, C. O. Wilke
   year: 2021
   title: Learning the local landscape of protein structures with convolutional neural networks.
-  ref: "J. Biol. Phys., in press"
-  doi: https://doi.org/10.1007/s10867-021-09593-6
+  ref: "J. Biol. Phys. 47:435-454"
+  doi: 10.1007/s10867-021-09593-6
+  pmcid: PMC8603988
 
 - author: A. M. Hill, J. R. Rybarski, K. Hu, I. J. Finkelstein, C. O. Wilke
   year: 2021
   title: "Opfi: A Python package for identifying gene clusters in large genomics and metagenomics data sets."
   ref: "Journal of Open Source Software 6:3678"
-  doi: https://doi.org/10.21105/joss.03678
+  doi: 10.21105/joss.03678
+  pmcid: PMC9017871
 
 - author: A. J. Hockenberry, C. O. Wilke
   year: 2021

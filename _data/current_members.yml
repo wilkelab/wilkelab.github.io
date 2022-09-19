@@ -5,12 +5,10 @@
   blog: "http://serialmentor.com/blog"
   github: clauswilke
 
-- name: T. Jeffrey Cole
+- name: Brent Allman
   role: Postdoc
-  joined: 2021
-  pubs: "https://scholar.google.com/citations?user=MbxmQhcAAAAJ&hl=en"
-  blog: https://tijeco.info/
-  github: tijeco
+  joined: 2022
+  pubs: "https://scholar.google.com/citations?hl=en&user=FSW5GvMAAAAJ"
 
 - name: Mackenzie M. Johnson
   role: Graduate Student (EEB)
@@ -32,6 +30,3 @@
   role: Graduate Student (CMB)
   joined: 2020
   
-- name: Tanvi Ingle
-  role: Undergraduate
-  joined: 2020
