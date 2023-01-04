@@ -7,6 +7,33 @@ permalink: /lab_meetings
 Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 <br><br>
 
+### Spring 2023
+
+|------+---+--------------------+---+----------------------+---+-------|
+| Date      |    |Research       |    |Literature |         |Notes      |
+|:----------|----|:------------------|----|:--------------------|---|:------|
+| 1/13/23 || Matt TACC Overview || Olivia ||
+| 1/20/23 || Kuang || Brent ||
+| 1/27/23 || Jonathan || Kuang ||
+| 2/3/23 || Aaron || Jonathan ||
+| 2/10/23 || Luiz || aaron ||
+| 2/17/23 || Alexis || Luiz ||
+| 2/24/23 || Brent || Alexis || 
+| 3/3/23 || Anastasiya || Brent ||
+| 3/10/23 || Danny || Anastasiya ||
+| 3/17/23 || --- || --- || No lab meeting.
+| 3/24/23 || Claus's Tips on JavaScript || Danny ||
+| 3/31/23 || TBD || TBD ||
+| 4/7/23 || TBD || TBD ||
+| 4/14/23 || TBD || TBD || 
+| 4/21/23 || TBD || TBD ||
+| 4/28/23 || TBD || TBD ||
+| 5/5/23 || TBD || TBD ||
+| 5/12/23 || TBD || TBD ||
+|------+---+--------------------+---+----------------------+---+-------|
+{:.widetable}
+
+<br><br />
 ### Fall 2022
 
 |------+---+--------------------+---+----------------------+---+-------|
