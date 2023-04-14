@@ -20,16 +20,19 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM in MBB 3.204.
 | 2/17/23 || Alexis || Luiz ||
 | 2/24/23 || Brent || Alexis || 
 | 3/3/23 || Anastasiya || Brent ||
-| 3/10/23 || Danny || Anastasiya ||
+| 3/10/23 || Matt || Anastasiya ||
 | 3/17/23 || --- || --- || No lab meeting.
-| 3/24/23 || Claus's Tips on JavaScript || Danny ||
-| 3/31/23 || TBD || TBD ||
-| 4/7/23 || TBD || TBD ||
-| 4/14/23 || TBD || TBD || 
-| 4/21/23 || TBD || TBD ||
-| 4/28/23 || TBD || TBD ||
-| 5/5/23 || TBD || TBD ||
-| 5/12/23 || TBD || TBD ||
+| 3/24/23 || Mini Meeting || --- ||
+| 3/31/23 || Danny Practice Defense Talk || TBD ||
+| 4/7/23 || Claus's Tips on JavaScript || --- ||
+| 4/14/23 || Kuang || Brent || 
+| 4/21/23 || America || Kuang ||
+| 4/28/23 || Aaron || America ||
+| 5/5/23 || Luiz || Alexis ||
+| 5/12/23 || Alexis || Luiz ||
+| 5/19/23 || Jonathan || Aaron ||
+| 5/26/23 || Anastasia || Jonathan ||
+| 6/2/23 || Brent || Anastasia ||
 |------+---+--------------------+---+----------------------+---+-------|
 {:.widetable}
 
