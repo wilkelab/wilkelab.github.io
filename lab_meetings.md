@@ -19,14 +19,14 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM on Zoom.
 | 9/1/23 || Kuang || Lisa ||
 | 9/8/23 || America || Kuang || ILS Retreat
 | 9/15/23 || Aaron || America || 
-| 9/22/23 || Luiz || Aaron ||
+| 9/22/23 || --- || --- || Claus unavailable
 | 9/29/23 || Alexis || Luiz ||
 | 10/6/23 || Anastasiya || Alexis ||
 | 10/13/23 || Brent || Anastasiya ||
-| 10/20/23 || Jonathan || Brent ||
-| 10/27/23 || TBD || Jonathan ||
-| 11/3/23 || TBD || TBD || 
-| 11/10/23 || TBD || TBD ||
+| 10/20/23 || --- || --- || Claus unavailable
+| 10/27/23 || Luiz || Jonathan ||
+| 11/3/23 || Jonathan || Aaron || 
+| 11/10/23 || TBD || Brent ||
 | 11/17/23 || TBD || TBD ||
 | 11/24/23 || --- || --- || Thanksgiving Break
 | 12/1/23 || TBD || TBD ||
