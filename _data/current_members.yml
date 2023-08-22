@@ -10,11 +10,15 @@
   joined: 2022
   pubs: "https://scholar.google.com/citations?hl=en&user=FSW5GvMAAAAJ"
 
-- name: Mackenzie M. Johnson
+- name: Aaron L. Feller
   role: Graduate Student (EEB)
-  joined: 2017
-  pubs: "https://scholar.google.com/citations?hl=en&user=vBGR7-UAAAAJ"
-  github: mmjohn
+  joined: 2022
+  pubs: "https://scholar.google.com/citations?user=Ez8l_VoAAAAJ&hl=en"
+  github: AaronFeller
+
+- name: Luiz Vieira
+  role: Graduate Student (MCB)
+  joined: 2022
     
 - name: Kuang Hu
   role: Graduate Student (CMB)
