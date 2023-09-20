@@ -1,8 +1,20 @@
-- author: J. R. Randall, C. D. DuPai, T. J. Cole, G. Davidson, K. E. Groover, C. O. Wilke, B. W. Davies
+- author: C. W. Kosonocky, C. O. Wilke, E. M. Marcotte, A. D. Ellington
   year: preprint
-  title: Designing β-hairpin peptide macrocycles for antibiotic potential.
-  ref: "bioRxiv 497034"
-  doi: 10.1101/2022.06.21.497034
+  title: Mining patents with large language models demonstrates congruence of functional labels and chemical structures.
+  ref: "arXiv:2309.08765"
+  doi: 10.48550/arXiv.2309.08765
+
+- author: J. R. Randall, L. C. Vieira, C. O. Wilke, B. W. Davies
+  year: preprint
+  title: Deep mutational scanning and machine learning uncover antimicrobial peptide features driving membrane selectivity.
+  ref: "bioRxiv 551017"
+  doi: 10.1101/2023.07.28.551017
+
+- author: C. W. Kosonocky, A. L. Feller, C. O. Wilke, A. D. Ellington
+  year: preprint
+  title: Prompt Engineering for Transformer-based Chemical Similarity Search Identifies Structurally Distinct Functional Analogues.
+  ref: "arXiv:2305.16330"
+  doi: 10.48550/arXiv.2305.16330
 
 - author: M. M. Johnson, C. O. Wilke
   year: preprint
@@ -22,11 +34,42 @@
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
 
+- author: A. V. Kulikova, D. J. Diaz, T. Chen, T. J. Cole, A. D. Ellington, C. O. Wilke
+  year: 2023
+  title: Two sequence-and two structure-based ML models have learned different aspects of protein biochemistry
+  ref: "Sci. Rep. 13:13280"
+  doi: 10.1038/s41598-023-40247-w
+  
+- author: M. M. Johnson, A. J. Hockenberry, M. J. McGuffie, L. C. Vieira, C. O. Wilke
+  year: 2023
+  title: Growth-dependent Gene Expression Variation Influences the Strength of Codon Usage Biases.
+  ref: "Mol. Biol. Evol. 40:msad189"
+  pmcid: PMC10482319
+
+- author: D. J. Diaz, A. V. Kulikova, A. D. Ellington, C. O. Wilke
+  year: 2023
+  title: Using machine learning to predict the effects and consequences of mutations in proteins.
+  ref: "Curr. Opin. Struct. Biol. 78, 102518"
+  doi: https://doi.org/10.1016/j.sbi.2022.102518
+
+- author: J. R. Randall, C. D. DuPai, T. J. Cole, G. Davidson, K. E. Groover, C. O. Wilke, B. W. Davies
+  year: 2023
+  title: Designing β-hairpin peptide macrocycles for antibiotic potential.
+  ref: "Science Advances 9:eade0008"
+  doi: 10.1126/sciadv.ade0008
+  
+- author: T. J. Cole, J. K. Parker, A. L. Feller, C. O. Wilke, B. W. Davies
+  year: 2022
+  title: Evidence for widespread class II microcins in Enterobacterales genomes.
+  ref: "Applied and Environmental Microbiology 88:e01486-22"
+  doi: https://doi.org/10.1128/aem.01486-22
+
 - author: S. B. Shah, A. M. Hill, C. O. Wilke, A. J. Hockenberry
   year: 2022
   title: Generating dynamic gene expression patterns without the need for regulatory circuits.
   ref: "PLoS One 17:e0268883"
   doi: 10.1371/journal.pone.0268883
+  pmcid: PMC9135205
 
 - author: J. R. Rybarski, K. Hu, A. M. Hill, C. O. Wilke, I. J. Finkelstein
   year: 2021
