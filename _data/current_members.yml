@@ -11,15 +11,16 @@
   pubs: "https://scholar.google.com/citations?hl=en&user=FSW5GvMAAAAJ"
 
 - name: Aaron L. Feller
-  role: Graduate Student (EEB)
+  role: Graduate Student (BCH)
   joined: 2022
   pubs: "https://scholar.google.com/citations?user=Ez8l_VoAAAAJ&hl=en"
   github: AaronFeller
 
 - name: Luiz Vieira
-  role: Graduate Student (MCB)
+  role: Graduate Student (CMB)
   joined: 2022
   pubs: "https://scholar.google.com/citations?user=sdp0RcEAAAAJ&hl=en&oi=ao"
+  github: ziul-bio
     
 - name: Kuang Hu
   role: Graduate Student (CMB)
