@@ -22,12 +22,12 @@ Lab meetings are held Fridays from 11 AM -- 12:30 PM on Zoom.
 | 9/22/23 || --- || --- || Claus unavailable
 | 9/29/23 || Alexis || Luiz ||
 | 10/6/23 || Anastasiya || Alexis ||
-| 10/13/23 || Brent || Anastasiya ||
+| 10/13/23 || Clay || Anastasiya ||
 | 10/20/23 || --- || --- || Claus unavailable
-| 10/27/23 || Luiz || Jonathan ||
-| 11/3/23 || Jonathan || Aaron || 
-| 11/10/23 || TBD || Brent ||
-| 11/17/23 || TBD || TBD ||
+| 10/27/23 || Brent || Jonathan ||
+| 11/3/23 || Anastasiya Defense Practice || Luiz || 
+| 11/10/23 || Kuang Defense Practice || Brent ||
+| 11/17/23 || Luiz || Brent ||
 | 11/24/23 || --- || --- || Thanksgiving Break
 | 12/1/23 || TBD || TBD ||
 | 12/8/23 || TBD || TBD ||
