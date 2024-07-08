@@ -1,20 +1,20 @@
-- author: C. W. Kosonocky, C. O. Wilke, E. M. Marcotte, A. D. Ellington
+- author: A. M. Hill, T. A. Ingle, C. O. Wilke
   year: preprint
-  title: Mining patents with large language models demonstrates congruence of functional labels and chemical structures.
-  ref: "arXiv:2309.08765"
-  doi: 10.48550/arXiv.2309.08765
+  title: A computational model for bacteriophage ϕX174 gene expression
+  ref: "bioRxiv 586356"
+  doi: 10.1101/2024.03.22.586356
 
-- author: J. R. Randall, L. C. Vieira, C. O. Wilke, B. W. Davies
+- author: A. V. Kulikova, J. K. Parker, B. W. Davies, C. O. Wilke
   year: preprint
-  title: Deep mutational scanning and machine learning uncover antimicrobial peptide features driving membrane selectivity.
-  ref: "bioRxiv 551017"
-  doi: 10.1101/2023.07.28.551017
+  title: Semantic search using protein large language models detects class II microcins in bacterial genomes
+  ref: "bioRxiv 567263"
+  doi: 10.1101/2023.11.15.567263
 
-- author: C. W. Kosonocky, A. L. Feller, C. O. Wilke, A. D. Ellington
+- author: K. Hu, C.-W. Chou, C. O. Wilke, I. J. Finkelstein
   year: preprint
-  title: Prompt engineering for transformer-based chemical similarity search identifies structurally distinct functional analogues.
-  ref: "arXiv:2305.16330"
-  doi: 10.48550/arXiv.2305.16330
+  title: Distinct horizontal transfer mechanisms for type I and type V CRISPR-associated transposons
+  ref: "bioRxiv 531003"
+  doi: 10.1101/2023.03.03.531003
 
 - author: M. M. Johnson, C. O. Wilke
   year: preprint
@@ -33,6 +33,37 @@
   title: Theory of measurement for site-specific evolutionary rates in amino-acid sequences.
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
+
+- author: C. O. Wilke
+  year: 2024
+  title: The biophysical landscape of viral evolution
+  ref: "PNAS 121:e2409667121"
+  doi: 10.1073/pnas.2409667121
+
+- author: M. M. Reimert, J. D. Parry, M. Denwood, M. K. Gussmann, C. O. Wilke, I. Kosenkov, M. Milton, A. Thomason
+  year: 2024
+  title: "extendr: Frictionless bindings for R and Rust"
+  ref: "Journal of Open Source Software 9:6394"
+  doi: 10.21105/joss.06394
+
+- author: J. R. Randall, L. C. Vieira, C. O. Wilke, B. W. Davies
+  year: 2024
+  title: Deep mutational scanning and machine learning for the analysis of antimicrobial-peptide features driving membrane selectivity.
+  ref: "Nature Biomed. Eng., in press"
+  doi: 10.1101/2023.07.28.551017
+  comment: doi not final
+
+- author: C. W. Kosonocky, C. O. Wilke, E. M. Marcotte, A. D. Ellington
+  year: 2024
+  title: Mining patents with large language models elucidates the chemical function landscape.
+  ref: "Digital Discovery 3:1150—1159"
+  doi: 10.1039/D4DD00011K
+
+- author: C. W. Kosonocky, A. L. Feller, C. O. Wilke, A. D. Ellington
+  year: 2023
+  title: Using alternative SMILES representations to identify novel functional analogues in chemical similarity vector searches.
+  ref: "Patterns 4:100865"
+  doi: 10.1016/j.patter.2023.100865
 
 - author: A. V. Kulikova, D. J. Diaz, T. Chen, T. J. Cole, A. D. Ellington, C. O. Wilke
   year: 2023
