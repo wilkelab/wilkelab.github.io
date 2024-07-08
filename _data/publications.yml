@@ -10,12 +10,6 @@
   ref: "bioRxiv 567263"
   doi: 10.1101/2023.11.15.567263
 
-- author: K. Hu, C.-W. Chou, C. O. Wilke, I. J. Finkelstein
-  year: preprint
-  title: Distinct horizontal transfer mechanisms for type I and type V CRISPR-associated transposons
-  ref: "bioRxiv 531003"
-  doi: 10.1101/2023.03.03.531003
-
 - author: M. M. Johnson, C. O. Wilke
   year: preprint
   title: Recombination rate inference via deep learning is limited by sequence diversity.
@@ -34,6 +28,20 @@
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
 
+- author: K. Hu, C.-W. Chou, C. O. Wilke, I. J. Finkelstein
+  year: 2024
+  title: Distinct horizontal transfer mechanisms for type I and type V CRISPR-associated transposons
+  ref: "Nature Commun., in press"
+  doi: 10.1101/2023.03.03.531003
+  comment: doi not final
+
+- author: J. R. Randall, L. C. Vieira, C. O. Wilke, B. W. Davies
+  year: 2024
+  title: Deep mutational scanning and machine learning for the analysis of antimicrobial-peptide features driving membrane selectivity.
+  ref: "Nature Biomed. Eng., in press"
+  doi: 10.1101/2023.07.28.551017
+  comment: doi not final
+
 - author: C. O. Wilke
   year: 2024
   title: The biophysical landscape of viral evolution
@@ -45,13 +53,6 @@
   title: "extendr: Frictionless bindings for R and Rust"
   ref: "Journal of Open Source Software 9:6394"
   doi: 10.21105/joss.06394
-
-- author: J. R. Randall, L. C. Vieira, C. O. Wilke, B. W. Davies
-  year: 2024
-  title: Deep mutational scanning and machine learning for the analysis of antimicrobial-peptide features driving membrane selectivity.
-  ref: "Nature Biomed. Eng., in press"
-  doi: 10.1101/2023.07.28.551017
-  comment: doi not final
 
 - author: C. W. Kosonocky, C. O. Wilke, E. M. Marcotte, A. D. Ellington
   year: 2024
