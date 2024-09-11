@@ -1,14 +1,20 @@
+- author: B. Allman, L. Vieira, D. J. Diaz, C. O. Wilke
+  year: preprint
+  title: A systematic evaluation of the language-of-viral-escape model using multiple machine learning frameworks.
+  ref: bioRxiv 611278
+  doi: 10.1101/2024.09.04.611278
+
+- author: A. L. Feller, C. O. Wilke
+  year: preprint
+  title: Peptide-specific chemical language model successfully predicts membrane diffusion of cyclic peptides.
+  ref: "bioRxiv 607221"
+  doi: 10.1101/2024.08.09.607221
+
 - author: A. M. Hill, T. A. Ingle, C. O. Wilke
   year: preprint
   title: A computational model for bacteriophage ϕX174 gene expression.
   ref: "bioRxiv 586356"
   doi: 10.1101/2024.03.22.586356
-
-- author: A. V. Kulikova, J. K. Parker, B. W. Davies, C. O. Wilke
-  year: preprint
-  title: Semantic search using protein large language models detects class II microcins in bacterial genomes.
-  ref: "bioRxiv 567263"
-  doi: 10.1101/2023.11.15.567263
 
 - author: M. M. Johnson, C. O. Wilke
   year: preprint
@@ -27,26 +33,33 @@
   title: Theory of measurement for site-specific evolutionary rates in amino-acid sequences.
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
+  
+- author: A. V. Kulikova, J. K. Parker, B. W. Davies, C. O. Wilke
+  year: 2024
+  title: Semantic search using protein large language models detects class II microcins in bacterial genomes.
+  ref: "mSystems, in press"
+  doi: 10.1101/2023.11.15.567263
+  comment: doi not final
 
 - author: K. Hu, C.-W. Chou, C. O. Wilke, I. J. Finkelstein
   year: 2024
   title: Distinct horizontal transfer mechanisms for type I and type V CRISPR-associated transposons.
-  ref: "Nature Commun., in press"
-  doi: 10.1101/2023.03.03.531003
-  comment: doi not final
+  ref: "Nature Commun. 15:6653"
+  doi: 10.1038/s41467-024-50816-w
+  pmcid: PMC11300857
 
 - author: J. R. Randall, L. C. Vieira, C. O. Wilke, B. W. Davies
   year: 2024
   title: Deep mutational scanning and machine learning for the analysis of antimicrobial-peptide features driving membrane selectivity.
-  ref: "Nature Biomed. Eng., in press"
-  doi: 10.1101/2023.07.28.551017
-  comment: doi not final
+  ref: "Nature Biomed. Eng. 8:842–853"
+  doi: 10.1038/s41551-024-01243-1
 
 - author: C. O. Wilke
   year: 2024
   title: The biophysical landscape of viral evolution.
   ref: "PNAS 121:e2409667121"
   doi: 10.1073/pnas.2409667121
+  pmcid: PMC11228502
 
 - author: M. M. Reimert, J. D. Parry, M. Denwood, M. K. Gussmann, C. O. Wilke, I. Kosenkov, M. Milton, A. Thomason
   year: 2024
@@ -59,18 +72,21 @@
   title: Mining patents with large language models elucidates the chemical function landscape.
   ref: "Digital Discovery 3:1150–1159"
   doi: 10.1039/D4DD00011K
+  pmcid: PMC11167698
 
 - author: C. W. Kosonocky, A. L. Feller, C. O. Wilke, A. D. Ellington
   year: 2023
   title: Using alternative SMILES representations to identify novel functional analogues in chemical similarity vector searches.
   ref: "Patterns 4:100865"
   doi: 10.1016/j.patter.2023.100865
+  pmcid: PMC10724362
 
 - author: A. V. Kulikova, D. J. Diaz, T. Chen, T. J. Cole, A. D. Ellington, C. O. Wilke
   year: 2023
-  title: Two sequence-and two structure-based ML models have learned different aspects of protein biochemistry.
+  title: Two sequence- and two structure-based ML models have learned different aspects of protein biochemistry.
   ref: "Sci. Rep. 13:13280"
   doi: 10.1038/s41598-023-40247-w
+  pmcid: PMC10432456
   
 - author: M. M. Johnson, A. J. Hockenberry, M. J. McGuffie, L. C. Vieira, C. O. Wilke
   year: 2023
@@ -83,18 +99,21 @@
   title: Using machine learning to predict the effects and consequences of mutations in proteins.
   ref: "Curr. Opin. Struct. Biol. 78, 102518"
   doi: https://doi.org/10.1016/j.sbi.2022.102518
+  pmcid: PMC9908841
 
 - author: J. R. Randall, C. D. DuPai, T. J. Cole, G. Davidson, K. E. Groover, S. L. Slater, D. A. Mavridou, C. O. Wilke, B. W. Davies 
   year: 2023
   title: Designing and identifying β-hairpin peptide macrocycles with antibiotic potential.
   ref: "Science Advances 9:eade0008"
   doi: 10.1126/sciadv.ade0008
+  pmcid: PMC9833666
   
 - author: T. J. Cole, J. K. Parker, A. L. Feller, C. O. Wilke, B. W. Davies
   year: 2022
   title: Evidence for widespread class II microcins in Enterobacterales genomes.
   ref: "Applied and Environmental Microbiology 88:e01486-22"
   doi: https://doi.org/10.1128/aem.01486-22
+  pmcid: PMC9746304
 
 - author: S. B. Shah, A. M. Hill, C. O. Wilke, A. J. Hockenberry
   year: 2022
