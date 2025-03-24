@@ -4,18 +4,6 @@
   ref: bioRxiv 611278
   doi: 10.1101/2024.09.04.611278
 
-- author: A. L. Feller, C. O. Wilke
-  year: preprint
-  title: Peptide-specific chemical language model successfully predicts membrane diffusion of cyclic peptides.
-  ref: "bioRxiv 607221"
-  doi: 10.1101/2024.08.09.607221
-
-- author: A. M. Hill, T. A. Ingle, C. O. Wilke
-  year: preprint
-  title: A computational model for bacteriophage ϕX174 gene expression.
-  ref: "bioRxiv 586356"
-  doi: 10.1101/2024.03.22.586356
-
 - author: M. M. Johnson, C. O. Wilke
   year: preprint
   title: Recombination rate inference via deep learning is limited by sequence diversity.
@@ -34,12 +22,32 @@
   ref: "bioRxiv 411025"
   doi: 10.1101/411025
   
+- author: A. L. Feller, C. O. Wilke
+  year: 2025
+  title: Peptide-specific chemical language model successfully predicts membrane diffusion of cyclic peptides.
+  ref: "J. Chem. Inf. Model 65:571–579"
+  doi: 10.1021/acs.jcim.4c01441
+
+- author: W. Liu, C. O. Wilke, J. J. Arnold, M. S. Sotoudegan, C. E. Cameron
+  year: 2024
+  title: "Single-cell virology: On-chip, quantitative characterization of the dynamics of virus spread from one single cell to another"
+  ref: "Viruses 16:1659"
+  doi: 10.3390/v16111659
+  pmcid: PMC11598947
+
+- author: A. M. Hill, T. A. Ingle, C. O. Wilke
+  year: 2024
+  title: A computational model for bacteriophage ϕX174 gene expression.
+  ref: "PLoS One 19:e0313039"
+  doi: 10.1371/journal.pone.0313039
+  pmcid: PMC11527146
+
 - author: A. V. Kulikova, J. K. Parker, B. W. Davies, C. O. Wilke
   year: 2024
   title: Semantic search using protein large language models detects class II microcins in bacterial genomes.
-  ref: "mSystems, in press"
-  doi: 10.1101/2023.11.15.567263
-  comment: doi not final
+  ref: "mSystems 9:e01044-24"
+  doi: 10.1128/msystems.01044-24
+  pmcid: PMC11494933
 
 - author: K. Hu, C.-W. Chou, C. O. Wilke, I. J. Finkelstein
   year: 2024
