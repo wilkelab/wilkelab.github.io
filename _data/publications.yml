@@ -1,26 +1,26 @@
+- author: G. Partipilo, S. M. Coleman, Y. Gao, I. E. Miniel Mahfoud, C. O. Wilke, H. S. Alper, B. K. Keitz
+  year: preprint
+  title: A Linear Mixed Effects Model for Evaluating Synthetic Gene Circuits.
+  ref: bioRxiv 630778
+  doi: 10.1101/2024.12.30.630778
+
+- author: C. T. Roots, A. M. Hill, C. O. Wilke, J. E. Barrick
+  year: preprint
+  title: Modeling and measuring how codon usage modulates the relationship between burden and yield during protein overexpression in bacteria.
+  ref: bioRxiv 625058
+  doi: 10.1101/2024.11.28.625058
+
+- author: L. C. Vieira, M. L. Handojo, C. O. Wilke
+  year: preprint
+  title: "Scaling down for efficiency: Medium-sized protein language models perform well at transfer learning on realistic datasets"
+  ref: bioRxiv 624936
+  doi: 10.1101/2024.11.22.624936
+
 - author: B. Allman, L. Vieira, D. J. Diaz, C. O. Wilke
   year: preprint
   title: A systematic evaluation of the language-of-viral-escape model using multiple machine learning frameworks.
   ref: bioRxiv 611278
   doi: 10.1101/2024.09.04.611278
-
-- author: M. M. Johnson, C. O. Wilke
-  year: preprint
-  title: Recombination rate inference via deep learning is limited by sequence diversity.
-  ref: "bioRxiv 498489"
-  doi: 10.1101/2022.07.01.498489
-
-- author: A. J. Hockenberry, D. C. Weaver, C. O. Wilke
-  year: preprint
-  title: Virulent but not temperate bacteriophages display hallmarks of rapid translation initiation.
-  ref: "bioRxiv 440840"
-  doi: 10.1101/2021.04.21.440840
-
-- author: D. K. Sydykova, C. O. Wilke
-  year: preprint
-  title: Theory of measurement for site-specific evolutionary rates in amino-acid sequences.
-  ref: "bioRxiv 411025"
-  doi: 10.1101/411025
   
 - author: A. L. Feller, C. O. Wilke
   year: 2025
@@ -1427,3 +1427,20 @@
   ref: "Phys. Rev. D 55:997–1000"
   doi: 10.1103/PhysRevD.55.997
   
+- author: M. M. Johnson, C. O. Wilke
+  year: unpublished
+  title: Recombination rate inference via deep learning is limited by sequence diversity.
+  ref: "bioRxiv 498489"
+  doi: 10.1101/2022.07.01.498489
+
+- author: A. J. Hockenberry, D. C. Weaver, C. O. Wilke
+  year: unpublished
+  title: Virulent but not temperate bacteriophages display hallmarks of rapid translation initiation.
+  ref: "bioRxiv 440840"
+  doi: 10.1101/2021.04.21.440840
+
+- author: D. K. Sydykova, C. O. Wilke
+  year: unpublished
+  title: Theory of measurement for site-specific evolutionary rates in amino-acid sequences.
+  ref: "bioRxiv 411025"
+  doi: 10.1101/411025
