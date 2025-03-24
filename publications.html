@@ -5,7 +5,7 @@ permalink: /publications
 ---
 {% if site.data.publications %}
 
-  {% assign yrs = site.data.publications | map: "year" | uniq | sort_natural | reverse %}
+  {% assign yrs = site.data.publications | map: "year" | uniq %}
   {% assign counter = site.data.publications.size %}
   <!-- FILTER YEAR-->
   <div class="pub-filter">
