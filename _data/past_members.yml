@@ -1,26 +1,14 @@
-- name: Kuang Hu
-  role: Graduate Student (CMB)
-  joined: 2019
-  left: 2024
-
-- name: Anastasiya Kulikova
-  role: Graduate Student (CMB)
-  joined: 2020
-  left: 2024
-
-- name: Mackenzie M. Johnson
-  role: Graduate Student (EEB)
-  joined: 2017
-  left: 2022
-  currently: Postdoctoral Research Associate at Fred Hutchinson Cancer Center
-  url: "https://scholar.google.com/citations?hl=en&user=vBGR7-UAAAAJ"
-
 - name: Viswanadham Sridhara
   role: Research Associate
   joined: 2012
   left: 2015
   currently: Computational Biologist at UT Southwestern Medical Center
   url: "http://scholar.google.com/citations?user=UBvhRHgAAAAJ"
+
+- name: Brent Allman
+  role: Postdoc
+  joined: 2022
+  left: 2025
 
 - name: M. Umut Çağlar
   role: Postdoc
@@ -90,12 +78,24 @@
   currently: Assistant Professor, University of Nevada School of Medicine
   url: "https://scholar.google.com/citations?user=OUYEkUIAAAAJ&hl=en"
 
+- name: Kuang Hu
+  role: Graduate Student (CMB)
+  joined: 2019
+  left: 2024
+
 - name: Eleisha L. Jackson
   role: Graduate Student (EEB)
   joined: 2012
   left: 2016
   currently: Data Scientist, Livongo
   url: "https://www.linkedin.com/in/eleishajackson"
+
+- name: Mackenzie M. Johnson
+  role: Graduate Student (EEB)
+  joined: 2017
+  left: 2022
+  currently: Postdoctoral Research Associate at Fred Hutchinson Cancer Center
+  url: "https://scholar.google.com/citations?hl=en&user=vBGR7-UAAAAJ"
 
 - name: Thomas Keller
   role: Graduate Student (EEB)
@@ -104,6 +104,11 @@
   currently: Research Technician, Georgia Tech
   url: "https://scholar.google.com/citations?user=HIBfsy4AAAAJ&hl=en"
     
+- name: Anastasiya Kulikova
+  role: Graduate Student (CMB)
+  joined: 2020
+  left: 2024
+
 - name: Eamon O'Dea
   role: Graduate Student (EEB)
   joined: 2008
