@@ -1,3 +1,8 @@
+- author: A. M. Hill, K. To, C. O. Wilke
+  year: preprint
+  ref: bioRxiv 659965
+  doi: 10.1101/2025.06.16.659965
+
 - author: G. Partipilo, S. M. Coleman, Y. Gao, I. E. Miniel Mahfoud, C. O. Wilke, H. S. Alper, B. K. Keitz
   year: preprint
   title: A Linear Mixed Effects Model for Evaluating Synthetic Gene Circuits.
@@ -5,28 +10,32 @@
   doi: 10.1101/2024.12.30.630778
 
 - author: C. T. Roots, A. M. Hill, C. O. Wilke, J. E. Barrick
-  year: preprint
-  title: Modeling and measuring how codon usage modulates the relationship between burden and yield during protein overexpression in bacteria.
-  ref: bioRxiv 625058
-  doi: 10.1101/2024.11.28.625058
+  year: 2025
+  title: Codon usage modulates the relationship between the burden and yield of protein overexpression.
+  ref: "J. Biol. Eng. 23:50"
+  doi: 10.1186/s13036-025-00521-z
+  pmcid: PMC12100883
 
 - author: L. C. Vieira, M. L. Handojo, C. O. Wilke
-  year: preprint
-  title: "Scaling down for efficiency: Medium-sized protein language models perform well at transfer learning on realistic datasets"
-  ref: bioRxiv 624936
+  year: 2025
+  title: Medium-sized protein language models perform well at transfer learning on realistic datasets.
+  ref: "Sci. Rep., in press"
   doi: 10.1101/2024.11.22.624936
+  note: doi points to preprint
 
 - author: B. Allman, L. Vieira, D. J. Diaz, C. O. Wilke
-  year: preprint
+  year: 2025
   title: A systematic evaluation of the language-of-viral-escape model using multiple machine learning frameworks.
-  ref: bioRxiv 611278
-  doi: 10.1101/2024.09.04.611278
+  ref: "J. R. Soc. Interface 22:20240598"
+  doi: 10.1098/rsif.2024.0598
+  pmcid: PMC12040448
   
 - author: A. L. Feller, C. O. Wilke
   year: 2025
   title: Peptide-aware chemical language model successfully predicts membrane diffusion of cyclic peptides.
   ref: "J. Chem. Inf. Model 65:571–579"
   doi: 10.1021/acs.jcim.4c01441
+  pmcid: PMC11326283
 
 - author: W. Liu, C. O. Wilke, J. J. Arnold, M. S. Sotoudegan, C. E. Cameron
   year: 2024
@@ -105,7 +114,7 @@
 - author: D. J. Diaz, A. V. Kulikova, A. D. Ellington, C. O. Wilke
   year: 2023
   title: Using machine learning to predict the effects and consequences of mutations in proteins.
-  ref: "Curr. Opin. Struct. Biol. 78, 102518"
+  ref: "Curr. Opin. Struct. Biol. 78:102518"
   doi: https://doi.org/10.1016/j.sbi.2022.102518
   pmcid: PMC9908841
 
