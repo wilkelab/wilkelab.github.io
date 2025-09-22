@@ -1,14 +1,46 @@
+- author: J. J. Arnold, S. M. Braet, L. C. Vieira, I. M. Moustafa, D. W. Gohara, J. Fecko, Y.-W. Su, A. Jain, D. Aponte-Diaz, C. O. Wilke, G. S. Anand, N. Yennawar, C. E. Cameron
+  year: preprint
+  title: A fold switch regulates conformation of an alphavirus virus RNA-dependent RNA polymerase
+  ref: bioRxiv 676892
+  doi: 10.1101/2025.09.18.676892
+
 - author: A. M. Hill, K. To, C. O. Wilke
   year: preprint
   title: Availability of charged tRNAs drives maximal protein synthesis at intermediate levels of codon usage bias.
   ref: bioRxiv 659965
   doi: 10.1101/2025.06.16.659965
 
+- author: A. L. Feller, C. O. Wilke
+  year: preprint
+  title: "p2smi: A Python Toolkit for Peptide FASTA-to-SMILES Conversion and Molecular Property Analysis"
+  ref: "arXiv:2505.00719"
+  doi: 10.48550/arXiv.2505.00719
+
 - author: G. Partipilo, S. M. Coleman, Y. Gao, I. E. Miniel Mahfoud, C. O. Wilke, H. S. Alper, B. K. Keitz
   year: preprint
   title: A Linear Mixed Effects Model for Evaluating Synthetic Gene Circuits.
   ref: bioRxiv 630778
   doi: 10.1101/2024.12.30.630778
+
+- author: J. K. Parker, A. L. Feller, R. Gu, S. Sanchez-Paiva, B. C. Perez, A. C. O'Donnell, W. Deng, R. M. Ousterhout, S.-Y. Kim, C. O. Wilke, B. W. Davies
+  year: 2025
+  title: Antibacterial microcins are ubiquitous and functionally diverse across bacterial communities.
+  ref: "Nature Communications 16:6048"
+  doi: 10.1038/s41467-025-61151-z
+  pmcid: PMC12219008
+
+- author: C. O. Wilke, L. C. Vieira
+  year: 2025
+  title: "Mechanistic modeling or machine learning for detecting variants of concern: Why not both?"
+  ref: "PNAS 122:e2513608122"
+  doi: 10.1073/pnas.251360812
+  pmcid: PMC12318215
+
+- author: I. Zibbu, C. O. Wilke, J. E. Barrick
+  year: 2025
+  title: "seabreeze: A Pipeline for Analyzing Structural Variation Between Bacterial Genome Assemblies"
+  ref: "Journal of Open Source Software 10:8065"
+  doi: 10.21105/joss.08065
 
 - author: C. T. Roots, A. M. Hill, C. O. Wilke, J. E. Barrick
   year: 2025
@@ -20,9 +52,9 @@
 - author: L. C. Vieira, M. L. Handojo, C. O. Wilke
   year: 2025
   title: Medium-sized protein language models perform well at transfer learning on realistic datasets.
-  ref: "Sci. Rep., in press"
-  doi: 10.1101/2024.11.22.624936
-  note: doi points to preprint
+  ref: "Sci. Rep. 15:21400"
+  doi: 10.1038/s41598-025-05674-x
+  pmcid: PMC12217344
 
 - author: B. Allman, L. Vieira, D. J. Diaz, C. O. Wilke
   year: 2025
