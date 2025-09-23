@@ -1,6 +1,6 @@
 - author: J. J. Arnold, S. M. Braet, L. C. Vieira, I. M. Moustafa, D. W. Gohara, J. Fecko, Y.-W. Su, A. Jain, D. Aponte-Diaz, C. O. Wilke, G. S. Anand, N. Yennawar, C. E. Cameron
   year: preprint
-  title: A fold switch regulates conformation of an alphavirus virus RNA-dependent RNA polymerase
+  title: A fold switch regulates conformation of an alphavirus virus RNA-dependent RNA polymerase.
   ref: bioRxiv 676892
   doi: 10.1101/2025.09.18.676892
 
@@ -12,7 +12,7 @@
 
 - author: A. L. Feller, C. O. Wilke
   year: preprint
-  title: "p2smi: A Python Toolkit for Peptide FASTA-to-SMILES Conversion and Molecular Property Analysis"
+  title: "p2smi: A Python Toolkit for Peptide FASTA-to-SMILES Conversion and Molecular Property Analysis."
   ref: "arXiv:2505.00719"
   doi: 10.48550/arXiv.2505.00719
 
@@ -38,7 +38,7 @@
 
 - author: I. Zibbu, C. O. Wilke, J. E. Barrick
   year: 2025
-  title: "seabreeze: A Pipeline for Analyzing Structural Variation Between Bacterial Genome Assemblies"
+  title: "seabreeze: A Pipeline for Analyzing Structural Variation Between Bacterial Genome Assemblies."
   ref: "Journal of Open Source Software 10:8065"
   doi: 10.21105/joss.08065
 
