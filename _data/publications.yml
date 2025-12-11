@@ -10,17 +10,17 @@
   ref: bioRxiv 659965
   doi: 10.1101/2025.06.16.659965
 
-- author: A. L. Feller, C. O. Wilke
-  year: preprint
-  title: "p2smi: A Python Toolkit for Peptide FASTA-to-SMILES Conversion and Molecular Property Analysis."
-  ref: "arXiv:2505.00719"
-  doi: 10.48550/arXiv.2505.00719
-
 - author: G. Partipilo, S. M. Coleman, Y. Gao, I. E. Miniel Mahfoud, C. O. Wilke, H. S. Alper, B. K. Keitz
   year: preprint
-  title: A Linear Mixed Effects Model for Evaluating Synthetic Gene Circuits.
+  title: A linear mixed effects model for evaluating synthetic gene circuits.
   ref: bioRxiv 630778
   doi: 10.1101/2024.12.30.630778
+
+- author: A. L. Feller, C. O. Wilke
+  year: 2025
+  title: "p2smi: A toolkit enabling SMILES generation and property analysis for noncanonical and cyclized peptides."
+  ref: "Journal of Open Source Software 10:8319"
+  doi: 10.21105/joss.08319
 
 - author: J. K. Parker, A. L. Feller, R. Gu, S. Sanchez-Paiva, B. C. Perez, A. C. O'Donnell, W. Deng, R. M. Ousterhout, S.-Y. Kim, C. O. Wilke, B. W. Davies
   year: 2025
@@ -38,7 +38,7 @@
 
 - author: I. Zibbu, C. O. Wilke, J. E. Barrick
   year: 2025
-  title: "seabreeze: A Pipeline for Analyzing Structural Variation Between Bacterial Genome Assemblies."
+  title: "seabreeze: A pipeline for analyzing structural variation between bacterial genome assemblies."
   ref: "Journal of Open Source Software 10:8065"
   doi: 10.21105/joss.08065
 
@@ -278,7 +278,7 @@
 - author: H. Wickham, M. Averick, J. Bryan, W. Chang, L. D'Agostino McGowan, R. François, G. Grolemund, A. Hayes, L. Henry, J. Hester, M. Kuhn, T. Lin Pedersen, E. Miller, S. Milton Bache, K. Müller, J. Ooms, D. Robinson, D. Paige Seidel, V. Spinu, K. Takahashi, D. Vaughan, C. Wilke, K. Woo, H. Yutani
   year: 2019
   title: "Welcome to the Tidyverse."
-  ref: "JOSS 4:1686"
+  ref: "Journal of Open Source Software 4:1686"
   doi: 10.21105/joss.01686
 
 - author: W. Liu, M. U. Caglar, Z. Mao, A. Woodman, J. J. Arnold, C. O. Wilke, C. E. Cameron

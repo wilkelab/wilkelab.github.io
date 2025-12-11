@@ -2,7 +2,7 @@
   role: Principal Investigator
   url: "http://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o"
   pubs: "http://scholar.google.com/citations?user=Nc8U6E4AAAAJ"
-  blog: "http://clauswilke.com/blog"
+  blog: "https://blog.genesmindsmachines.com/"
   github: clauswilke
 
 - name: Bahar Kasgari
@@ -14,6 +14,10 @@
   joined: 2022
   pubs: "https://scholar.google.com/citations?user=Ez8l_VoAAAAJ&hl=en"
   github: AaronFeller
+
+- name: Morgan L. Handojo
+  role: Graduate Student (CMB)
+  joined: 2025
 
 - name: Luiz Vieira
   role: Graduate Student (CMB)
