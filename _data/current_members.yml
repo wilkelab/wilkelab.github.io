@@ -8,6 +8,7 @@
 - name: Bahar Kasgari
   role: Graduate Student (EEB)
   joined: 2024
+  github: baharkg
 
 - name: Aaron L. Feller
   role: Graduate Student (BCH)
@@ -18,18 +19,21 @@
 - name: Morgan L. Handojo
   role: Graduate Student (CMB)
   joined: 2025
+  pubs: "https://scholar.google.com/citations?user=T0RfxqsAAAAJ"
+  github: morgan-handojo
+
+- name: Kristi Pham
+  role: Graduate Student (CMB)
+  joined: 2025
+  github: KristiPhammie
 
 - name: Luiz Vieira
   role: Graduate Student (CMB)
   joined: 2022
   pubs: "https://scholar.google.com/citations?user=sdp0RcEAAAAJ&hl=en&oi=ao"
   github: ziul-bio
-
-- name: Alexis M. Hill
-  role: Graduate Student (CMB)
-  joined: 2019
-  github: alexismhill3
   
 - name: Kelly To
   role: Staff
   joined: 2024
+  github: kellyktvt
