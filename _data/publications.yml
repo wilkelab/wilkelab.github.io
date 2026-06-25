@@ -1,20 +1,25 @@
-- author: J. J. Arnold, S. M. Braet, L. C. Vieira, I. M. Moustafa, D. W. Gohara, J. Fecko, Y.-W. Su, A. Jain, D. Aponte-Diaz, C. O. Wilke, G. S. Anand, N. Yennawar, C. E. Cameron
-  year: preprint
-  title: A fold switch regulates conformation of an alphavirus virus RNA-dependent RNA polymerase.
-  ref: bioRxiv 676892
-  doi: 10.1101/2025.09.18.676892
+
+- author: G. Partipilo, S. M. Coleman, A. J. Holwerda, Y. Gao, I. E. Miniel Mahfoud, C. O. Wilke, H. S. Alper, B. K. Keitz
+  year: 2026
+  title: A linear mixed effects model for evaluating synthetic gene circuits.
+  ref: "ACS Synth. Biol. 15:2561–2572"
+  doi: 10.1021/acssynbio.6c00171
+  pmcid: PMC11722350
+  note: PMC ID is for preprint version
+
+- author: J. J. Arnold, S. M. Braet, L. C. Vieira, I. M. Moustafa, D. W. Gohara, J. Fecko, Y.-W. Norman Su, A. Jain, D. Aponte-Diaz, C. O. Wilke, G. S. Anand, N. Yennawar, C. E. Cameron
+  year: 2026
+  title: A fold switch regulates conformation of an alphavirus RNA-dependent RNA polymerase.
+  ref: "Nucleic Acids Res. 54:gkag029"
+  doi: 10.1093/nar/gkag029
+  pmcid: PMC12817075
 
 - author: A. M. Hill, K. To, C. O. Wilke
-  year: preprint
+  year: 2026
   title: Availability of charged tRNAs drives maximal protein synthesis at intermediate levels of codon usage bias.
-  ref: bioRxiv 659965
-  doi: 10.1101/2025.06.16.659965
-
-- author: G. Partipilo, S. M. Coleman, Y. Gao, I. E. Miniel Mahfoud, C. O. Wilke, H. S. Alper, B. K. Keitz
-  year: preprint
-  title: A linear mixed effects model for evaluating synthetic gene circuits.
-  ref: bioRxiv 630778
-  doi: 10.1101/2024.12.30.630778
+  ref: "Bull. Math. Biol. 88:16"
+  doi: 10.1007/s11538-025-01587-y
+  pmcid: PMC12799730
 
 - author: A. L. Feller, C. O. Wilke
   year: 2025
