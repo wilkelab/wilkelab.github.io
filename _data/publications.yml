@@ -1,16 +1,18 @@
 - author: P. R. Woolley, A. L. Feller, A. D. Ellington, C. O. Wilke
+  year: preprint
   title: "Overestimating zero-shot fitness prediction: Broad benchmarks mask local failures and practical limitations."
   ref: "bioRxiv 2026.06.04.730121"
   doi: 10.64898/2026.06.04.730121
 
 - author: L. C. Vieira, S. Lin, C. O. Wilke
+  year: preprint
   title: Intrinsic dataset features drive mutational effect prediction by protein language models
   ref: "bioRxiv 2026.03.08.710389"
   doi: 10.64898/2026.03.08.710389
 
 - author: A. L. Feller, M. Secor, S. Swanson, C. O. Wilke, K. Deibler
-  title: Scaling SMILES-based chemical language models for therapeutic peptide engineering.
   year: preprint
+  title: Scaling SMILES-based chemical language models for therapeutic peptide engineering.
   ref: "bioRxiv 2026.01.06.697994"
   doi: 10.64898/2026.01.06.697994
 
