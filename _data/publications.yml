@@ -1,3 +1,18 @@
+- author: P. R. Woolley, A. L. Feller, A. D. Ellington, C. O. Wilke
+  title: "Overestimating zero-shot fitness prediction: Broad benchmarks mask local failures and practical limitations."
+  ref: "bioRxiv 2026.06.04.730121"
+  doi: 10.64898/2026.06.04.730121
+
+- author: L. C. Vieira, S. Lin, C. O. Wilke
+  title: Intrinsic dataset features drive mutational effect prediction by protein language models
+  ref: "bioRxiv 2026.03.08.710389"
+  doi: 10.64898/2026.03.08.710389
+
+- author: A. L. Feller, M. Secor, S. Swanson, C. O. Wilke, K. Deibler
+  title: Scaling SMILES-based chemical language models for therapeutic peptide engineering.
+  year: preprint
+  ref: "bioRxiv 2026.01.06.697994"
+  doi: 10.64898/2026.01.06.697994
 
 - author: G. Partipilo, S. M. Coleman, A. J. Holwerda, Y. Gao, I. E. Miniel Mahfoud, C. O. Wilke, H. S. Alper, B. K. Keitz
   year: 2026
@@ -1477,13 +1492,13 @@
 - author: M. M. Johnson, C. O. Wilke
   year: unpublished
   title: Recombination rate inference via deep learning is limited by sequence diversity.
-  ref: "bioRxiv 498489"
+  ref: "bioRxiv 2022.07.01.498489"
   doi: 10.1101/2022.07.01.498489
 
 - author: A. J. Hockenberry, D. C. Weaver, C. O. Wilke
   year: unpublished
   title: Virulent but not temperate bacteriophages display hallmarks of rapid translation initiation.
-  ref: "bioRxiv 440840"
+  ref: "bioRxiv 2021.04.21.440840"
   doi: 10.1101/2021.04.21.440840
 
 - author: D. K. Sydykova, C. O. Wilke
