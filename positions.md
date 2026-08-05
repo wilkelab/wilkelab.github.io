@@ -18,4 +18,4 @@ Prospective graduate students should inquire with Claus Wilke, but will have to 
 Undergraduates usually work for course credit or volunteer. Please contact Claus Wilke and inquire about current opportunities.
 
 **High school students.**
-We generally cannot host high school students. For an explanation, [see here.](highschool)
+We generally cannot host high school students. For an explanation, [see here.](/highschool/)
