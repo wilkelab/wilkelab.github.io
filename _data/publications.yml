@@ -1,3 +1,9 @@
+- author: K. Pham, G. G. Nicastro, A. R. Long, L. Aravind, C. O. Wilke, R. F. de Souza, E. Bayer-Santos
+  year: preprint
+  title: A structure-guided classification framework reveals the diversity and catalytic architecture of BECR ribonuclease
+  ref: "bioRxiv 2026.08.28.747851"
+  doi: 10.64898/2026.08.28.747851
+
 - author: P. R. Woolley, A. L. Feller, A. D. Ellington, C. O. Wilke
   year: preprint
   title: "Overestimating zero-shot fitness prediction: Broad benchmarks mask local failures and practical limitations."
